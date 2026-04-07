@@ -4,6 +4,8 @@ import os
 csv_dir = './outputCSV'
 csv_path = os.path.join(csv_dir, 'tableSTA.csv')
 
+features_csv_path = os.path.join(csv_dir, 'featuresDesign.csv')
+
 def make_csv():
     os.makedirs(csv_dir, exist_ok=True)
 
@@ -29,3 +31,4 @@ def insert_csv(data):
 if not os.path.exists(csv_path):
     make_csv()
 
+def features_csv():
