@@ -16,7 +16,9 @@ def make_csv():
             'arrival_2',
             'cells_p1',
             'cells_p2',
-            'size_gates'
+            'size_gates',
+            'gain_1',
+            'gain_2'
         ])
 
 def insert_csv(data):
