@@ -52,7 +52,7 @@ class Get_IO:
                     
         return outputs_list  
     
-    def gat_cells_ids(self):
+    def get_cells_ids(self):
         
         gates_id = []
 
@@ -88,4 +88,4 @@ def debug_Get_IO(file):
 # Vai ser usado para automatizar o Decode em main 
 def number_gates(circuit_file, dir_files):
     design = Get_IO(circuit_file, dir_files)
-    return len(design.gat_cells_ids())  # Adicione os parênteses ()
+    return len(design.gat_cells_ids())  

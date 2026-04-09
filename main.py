@@ -12,7 +12,11 @@ design_path = "./staOutputs"
 files = dir.get_files(design_path)
 dir_circuits = 'inputs/'
 
-csv_path = '../outputCSV/tableSTA.csv'
+#csv_path = '../outputCSV/tableSTA.csv'
+
+circuit = "c17.v"
+design = f'./makeCombinations/{circuit}'
+exemples = "./makeCombinations"
 
 def get_code(string):
     return string.split("_", 1)[0]
@@ -27,6 +31,45 @@ def format_cells(cells_dict):
         cell_ids = [c['cell_id'].strip('_') for c in cells_dict[cid]]
         result[cid] = '-'.join(cell_ids)
     return result
+
+# Parametros fixos do design
+number_coluns = readV.Get_IO.get_outputs(circuit, exemples)
+
+arrives_coluns = makeCSV.Generete_coluns.create_arrives_coluns(number_coluns)
+paths_coluns = makeCSV.Generete_coluns.create_paths_coluns(number_coluns)
+gains_coluns =makeCSV.Generete_coluns.create_paths_coluns(number_coluns)
+
+def circuit_table(csv_name, arrives, paths, gains):
+    coluns_list = [
+        'circuit',
+        'design',
+        'size_gates',
+        'cells_out_path'
+    ]
+
+    desing_coluns_list = coluns_list + arrives + paths + gains
+
+    makeCSV.Create_table.make_csv(desing_coluns_list, )
+
+    
+def features_table(csv_name):
+    coluns_list = [
+        'design',
+        'cell',
+        'type',
+        'fain',
+        'faout',
+        'nl',
+        'deep'
+    ]
+    
+    makeCSV.Create_table.make_csv(coluns_list, )
+
+# Retorna as células do design que não fizeram parte de nenhum caminho crítico
+def find_out(cells_list, cells_path):
+    out_gates = cells_list - cells_path
+    return out_gates
+
 
 # Evita de rodar o sta toda hora
 if is_dir_empty(design_path):
@@ -49,6 +92,23 @@ for sta_file in files:
     # Formata células como string separada por -
     cells_formatted = format_cells(cells)
     
+    # Vou usar a lista de gates para comparar depois aqueles que estão fora do caminho crítico
+    desig_cells = readV.Get_IO.get_cells_ids(circuit_file, dir_circuits)
+
+    design_outputs = readV.Get_IO.get_outputs(circuit_file, dir_circuits)
+
+    
+
+
+
+
+
+
+
+
+
+
+
     # Extrai dados dos caminhos críticos (1 e 2)
     arrival_1 = arrivals.get(1, "-")
     arrival_2 = arrivals.get(2, "-")
