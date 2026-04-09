@@ -61,27 +61,3 @@ csv_path = os.path.join(csv_dir, 'tableSTA.csv')
 features_csv_path = os.path.join(csv_dir, 'featuresDesign.csv')
 
 
-
-# Insere os ganhos
-def insert_gains(gains1, gains2, csv_file=csv_path):
-    with open(csv_file, "r", newline="") as f:
-        rows = list(csv.reader(f))
-
-    header = rows[0]
-    data_rows = rows[1:]
-
-    gain1_idx = header.index("gain_1")
-    gain2_idx = header.index("gain_2")
-
-    for i, row in enumerate(data_rows):
-        if i < len(gains1):
-            row[gain1_idx] = str(gains1[i])
-        if i < len(gains2):
-            row[gain2_idx] = str(gains2[i])
-
-    with open(csv_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(header)
-        writer.writerows(data_rows)
-    
-
