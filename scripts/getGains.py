@@ -1,4 +1,5 @@
 import pandas as pd 
+import csv
 
 def walk_csv(csv_file):
     df = pd.read_csv(csv_file)
@@ -28,3 +29,26 @@ def walk_csv(csv_file):
 
 #csv_path = '../outputCSV/tableSTA.csv'
 #walk_csv(csv_path)
+
+def first_csv_line(table):
+    with open(table, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        first_line = next(reader)
+
+    return first_line
+
+
+def filter_values(line, column, number_outputs):
+    base_lines = {}
+
+    for i in number_outputs:
+        string = f'{column}_{i}'
+
+        for key in line:
+            if key.startswith(string):
+                base_lines[key] = line[key]
+
+    return base_lines
+
+    
+
