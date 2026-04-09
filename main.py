@@ -6,10 +6,13 @@ from scripts import Decoder
 from scripts import runSTA
 from scripts import readV
 from scripts import makeCSV
+from scripts import getGains
 
 design_path = "./staOutputs"
 files = dir.get_files(design_path)
 dir_circuits = 'inputs/'
+
+csv_path = '../outputCSV/tableSTA.csv'
 
 def get_code(string):
     return string.split("_", 1)[0]
@@ -52,7 +55,7 @@ for sta_file in files:
     cells_p1 = cells_formatted.get(1, "")
     cells_p2 = cells_formatted.get(2, "")
     
-    # Formata sizes como string (se sized_gates for lista)
+    # Formata sizes como string 
     if isinstance(sized_gates, list):
         size_gates = '-'.join(str(s) for s in sized_gates)
     else:
@@ -71,6 +74,10 @@ for sta_file in files:
     
     # Insere no CSV
     makeCSV.insert_csv(data)
-    
     print(f"✓ {sta_file} adicionado ao CSV")
+
+    addition1, addition2 = getGains.walk_csv(csv_path)
+
+    makeCSV.insert_gains(addition1, addition2)
+
 
