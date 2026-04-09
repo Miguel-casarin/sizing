@@ -15,7 +15,6 @@ dir_circuits = 'inputs/'
 #csv_path = '../outputCSV/tableSTA.csv'
 
 circuit = "c17.v"
-design = f'./makeCombinations/{circuit}'
 exemples = "./makeCombinations"
 
 def get_code(string):
@@ -32,13 +31,21 @@ def format_cells(cells_dict):
         result[cid] = '-'.join(cell_ids)
     return result
 
-# Parametros fixos do design
-number_coluns = readV.Get_IO.get_outputs(circuit, exemples)
 
-arrives_coluns = makeCSV.Generete_coluns.create_arrives_coluns(number_coluns)
-paths_coluns = makeCSV.Generete_coluns.create_paths_coluns(number_coluns)
-gains_coluns =makeCSV.Generete_coluns.create_paths_coluns(number_coluns)
+gio = readV.Get_IO(circuit, exemples)
 
+# número de saídas do circuito (quantas colunas arrival_i/path_i/gains_i criar)
+number_coluns = len(gio.get_outputs())
+
+arrives_coluns = makeCSV.Generete_coluns(number_coluns).create_arrives_coluns()
+paths_coluns   = makeCSV.Generete_coluns(number_coluns).create_paths_coluns()
+gains_coluns   = makeCSV.Generete_coluns(number_coluns).create_gains_coluns()
+
+circuit_cells = gio.get_cells_ids()
+print(circuit_cells)
+
+
+"""""
 def circuit_table(csv_name, arrives, paths, gains):
     coluns_list = [
         'circuit',
@@ -64,6 +71,7 @@ def features_table(csv_name):
     ]
     
     makeCSV.Create_table.make_csv(coluns_list, )
+"""
 
 # Retorna as células do design que não fizeram parte de nenhum caminho crítico
 def find_out(cells_list, cells_path):
@@ -74,7 +82,10 @@ def find_out(cells_list, cells_path):
 # Evita de rodar o sta toda hora
 if is_dir_empty(design_path):
     runSTA.run_sta()
-    
+
+
+
+
 for sta_file in files:
     full_path = os.path.join(design_path, sta_file)
     rt = extData.Read_timing(full_path)
@@ -93,13 +104,11 @@ for sta_file in files:
     cells_formatted = format_cells(cells)
     
     # Vou usar a lista de gates para comparar depois aqueles que estão fora do caminho crítico
-    desig_cells = readV.Get_IO.get_cells_ids(circuit_file, dir_circuits)
+    desig_cells = gio.get_cells_ids()
 
-    design_outputs = readV.Get_IO.get_outputs(circuit_file, dir_circuits)
+    #design_outputs = readV.Get_IO.get_outputs(circuit_file, dir_circuits)
 
-    
-
-
+    print(cells)
 
 
 
@@ -108,7 +117,7 @@ for sta_file in files:
 
 
 
-
+"""""
     # Extrai dados dos caminhos críticos (1 e 2)
     arrival_1 = arrivals.get(1, "-")
     arrival_2 = arrivals.get(2, "-")
@@ -139,5 +148,5 @@ for sta_file in files:
     addition1, addition2 = getGains.walk_csv(csv_path)
 
     makeCSV.insert_gains(addition1, addition2)
-
+"""
 

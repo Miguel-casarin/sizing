@@ -80,7 +80,7 @@ def debug_Get_IO(file):
     for o in outputs:
         print(o)
 
-    cells = debug.gat_cells_ids()
+    cells = debug.get_cells_ids()
     print("Cells Ids \n")
     for c in cells:
         print(c)
@@ -88,4 +88,4 @@ def debug_Get_IO(file):
 # Vai ser usado para automatizar o Decode em main 
 def number_gates(circuit_file, dir_files):
     design = Get_IO(circuit_file, dir_files)
-    return len(design.gat_cells_ids())  
+    return len(design.get_cells_ids())  

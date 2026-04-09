@@ -1,6 +1,7 @@
 import pandas as pd 
 import csv
 
+"""""
 def walk_csv(csv_file):
     df = pd.read_csv(csv_file)
     
@@ -25,7 +26,7 @@ def walk_csv(csv_file):
         list_gains2.append(gain2)
     
     return list_gains1, list_gains2
-        
+"""""
 
 csv_path = '../outputCSV/tableSTA.csv'
 
