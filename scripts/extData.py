@@ -1,4 +1,3 @@
-
 import re
 
 class Read_timing:
@@ -40,13 +39,12 @@ class Read_timing:
         pcritic_id = 0
         result = {}
 
-        pattern_cells = re.compile(r"(_\d+_)")  
+        pattern_cells = re.compile(r"_(\d+)_")
 
         with open(self.sta_file, "r") as f:
             for line in f:
                 line = line.strip()
 
-                # Novo caminho crítico
                 if line.startswith("Startpoint"):
                     pcritic_id += 1
                     result[pcritic_id] = []
@@ -54,11 +52,7 @@ class Read_timing:
 
                 match = pattern_cells.search(line)
                 if match and pcritic_id > 0:
-                    id_cell = match.group(1)
-
-                    result[pcritic_id].append({
-                        "cell_id": id_cell
-                    })
+                    result[pcritic_id].append(int(match.group(1)))  
 
         return result
         

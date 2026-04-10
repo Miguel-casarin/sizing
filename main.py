@@ -24,12 +24,42 @@ def is_dir_empty(path):
     return not any(os.scandir(path))
 
 def format_cells(cells_dict):
-    """Formata células por caminho crítico: p1: 1-2-3, p2: 4-5-6"""
     result = {}
     for cid in sorted(cells_dict.keys()):
-        cell_ids = [c['cell_id'].strip('_') for c in cells_dict[cid]]
-        result[cid] = '-'.join(cell_ids)
+        result[cid] = "-".join(str(c) for c in cells_dict[cid])
     return result
+
+
+def _norm_cell_id(x) -> str:
+    # Garante comparação consistente entre '4' e 4
+    return str(x).strip()
+
+def process_out_path(cells_dict):
+    # Achata todas as células dos caminhos críticos e normaliza para string
+    vals = []
+    for cid in sorted(cells_dict.keys()):
+        vals.extend(cells_dict[cid])
+
+    # Remove duplicados SEM perder a ordem
+    seen = set()
+    critical = []
+    for v in vals:
+        s = _norm_cell_id(v)
+        if s not in seen:
+            seen.add(s)
+            critical.append(s)
+
+    print(f"Cp -> {critical}")
+    return critical
+
+def out_path(circuit_cells, cells_dict):
+    # circuit_cells pode já estar em string, mas normalizamos igual
+    design = [_norm_cell_id(c) for c in circuit_cells]
+    print(f"design cells -> {design}")
+
+    critical_paths = set(process_out_path(cells_dict))  # strings
+    dif = [c for c in design if c not in critical_paths]  # mantém ordem do design
+    return dif
 
 
 gio = readV.Get_IO(circuit, exemples)
@@ -73,10 +103,6 @@ def features_table(csv_name):
     makeCSV.Create_table.make_csv(coluns_list, )
 """
 
-# Retorna as células do design que não fizeram parte de nenhum caminho crítico
-def find_out(cells_list, cells_path):
-    out_gates = cells_list - cells_path
-    return out_gates
 
 
 # Evita de rodar o sta toda hora
@@ -93,7 +119,6 @@ for sta_file in files:
     code = get_code(sta_file)  
     circuit_file = f"{code}_c17.v"
     
-    # Passa os parâmetros corretos
     number_gates = readV.number_gates(circuit_file, dir_circuits)
     sized_gates = Decoder.get_sequence(number_gates, int(code))
 
@@ -103,12 +128,20 @@ for sta_file in files:
     # Formata células como string separada por -
     cells_formatted = format_cells(cells)
     
+    
     # Vou usar a lista de gates para comparar depois aqueles que estão fora do caminho crítico
     desig_cells = gio.get_cells_ids()
 
+    teste = out_path(desig_cells, cells)
+    print(f"outPath -> {teste}")
+
+
+
+
+
     #design_outputs = readV.Get_IO.get_outputs(circuit_file, dir_circuits)
 
-    print(cells)
+    #print(cells)
 
 
 
