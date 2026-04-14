@@ -6,7 +6,7 @@ from scripts import dir
 from scripts import edTCL
 from scripts import readV
 
-file_tcl = "t.tcl/"
+file_tcl = "t.tcl"
 dir_circuits = 'inputs/'
 dir_out = 'staOutputs/'
 
@@ -39,7 +39,7 @@ def run_sta():
         module_design = verilog_reader.verilog_module()
         inputs_sinals = verilog_reader.get_inputs()
         outputs_signals = verilog_reader.get_outputs()
-        cells_name = verilog_reader.gat_cells_ids()
+        cells_name = verilog_reader.get_cells_ids()
 
         number_paths = edTCL.number_outputs(outputs_signals)
 

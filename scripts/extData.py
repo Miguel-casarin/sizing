@@ -55,7 +55,23 @@ class Read_timing:
                     result[pcritic_id].append(int(match.group(1)))  
 
         return result
+
+    def get_power(self):
         
+        pattern = re.compile(r'^Total\s+(?:\S+\s+){3}(\S+)', re.MULTILINE)
+    
+        with open(self.sta_file, 'r') as f:
+            content = f.read()
+        
+        match = pattern.search(content)
+        
+        if match:
+            power = float(match.group(1))
+            return power
+        else:
+            return None
+                
+            
     
 #file = f"000000.txt"
 

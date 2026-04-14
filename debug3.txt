@@ -1,0 +1,4376 @@
+File 0_c17.v ad to circuit list
+File 1_c17.v ad to circuit list
+File 2_c17.v ad to circuit list
+File 3_c17.v ad to circuit list
+File 4_c17.v ad to circuit list
+File 5_c17.v ad to circuit list
+File 6_c17.v ad to circuit list
+File 7_c17.v ad to circuit list
+File 8_c17.v ad to circuit list
+File 9_c17.v ad to circuit list
+File 10_c17.v ad to circuit list
+File 11_c17.v ad to circuit list
+File 12_c17.v ad to circuit list
+File 13_c17.v ad to circuit list
+File 14_c17.v ad to circuit list
+File 15_c17.v ad to circuit list
+File 16_c17.v ad to circuit list
+File 17_c17.v ad to circuit list
+File 18_c17.v ad to circuit list
+File 19_c17.v ad to circuit list
+File 20_c17.v ad to circuit list
+File 21_c17.v ad to circuit list
+File 22_c17.v ad to circuit list
+File 23_c17.v ad to circuit list
+File 24_c17.v ad to circuit list
+File 25_c17.v ad to circuit list
+File 26_c17.v ad to circuit list
+File 27_c17.v ad to circuit list
+File 28_c17.v ad to circuit list
+File 29_c17.v ad to circuit list
+File 30_c17.v ad to circuit list
+File 31_c17.v ad to circuit list
+File 32_c17.v ad to circuit list
+File 33_c17.v ad to circuit list
+File 34_c17.v ad to circuit list
+File 35_c17.v ad to circuit list
+File 36_c17.v ad to circuit list
+File 37_c17.v ad to circuit list
+File 38_c17.v ad to circuit list
+File 39_c17.v ad to circuit list
+File 40_c17.v ad to circuit list
+File 41_c17.v ad to circuit list
+File 42_c17.v ad to circuit list
+File 43_c17.v ad to circuit list
+File 44_c17.v ad to circuit list
+File 45_c17.v ad to circuit list
+File 46_c17.v ad to circuit list
+File 47_c17.v ad to circuit list
+File 48_c17.v ad to circuit list
+File 49_c17.v ad to circuit list
+File 50_c17.v ad to circuit list
+File 51_c17.v ad to circuit list
+File 52_c17.v ad to circuit list
+File 53_c17.v ad to circuit list
+File 54_c17.v ad to circuit list
+File 55_c17.v ad to circuit list
+File 56_c17.v ad to circuit list
+File 57_c17.v ad to circuit list
+File 58_c17.v ad to circuit list
+File 59_c17.v ad to circuit list
+File 60_c17.v ad to circuit list
+File 61_c17.v ad to circuit list
+File 62_c17.v ad to circuit list
+File 63_c17.v ad to circuit list
+File 64_c17.v ad to circuit list
+File 65_c17.v ad to circuit list
+File 66_c17.v ad to circuit list
+File 67_c17.v ad to circuit list
+File 68_c17.v ad to circuit list
+File 69_c17.v ad to circuit list
+File 70_c17.v ad to circuit list
+File 71_c17.v ad to circuit list
+File 72_c17.v ad to circuit list
+File 73_c17.v ad to circuit list
+File 74_c17.v ad to circuit list
+File 75_c17.v ad to circuit list
+File 76_c17.v ad to circuit list
+File 77_c17.v ad to circuit list
+File 78_c17.v ad to circuit list
+File 79_c17.v ad to circuit list
+File 80_c17.v ad to circuit list
+File 81_c17.v ad to circuit list
+File 82_c17.v ad to circuit list
+File 83_c17.v ad to circuit list
+File 84_c17.v ad to circuit list
+File 85_c17.v ad to circuit list
+File 86_c17.v ad to circuit list
+File 87_c17.v ad to circuit list
+File 88_c17.v ad to circuit list
+File 89_c17.v ad to circuit list
+File 90_c17.v ad to circuit list
+File 91_c17.v ad to circuit list
+File 92_c17.v ad to circuit list
+File 93_c17.v ad to circuit list
+File 94_c17.v ad to circuit list
+File 95_c17.v ad to circuit list
+File 96_c17.v ad to circuit list
+File 97_c17.v ad to circuit list
+File 98_c17.v ad to circuit list
+File 99_c17.v ad to circuit list
+File 100_c17.v ad to circuit list
+File 101_c17.v ad to circuit list
+File 102_c17.v ad to circuit list
+File 103_c17.v ad to circuit list
+File 104_c17.v ad to circuit list
+File 105_c17.v ad to circuit list
+File 106_c17.v ad to circuit list
+File 107_c17.v ad to circuit list
+File 108_c17.v ad to circuit list
+File 109_c17.v ad to circuit list
+File 110_c17.v ad to circuit list
+File 111_c17.v ad to circuit list
+File 112_c17.v ad to circuit list
+File 113_c17.v ad to circuit list
+File 114_c17.v ad to circuit list
+File 115_c17.v ad to circuit list
+File 116_c17.v ad to circuit list
+File 117_c17.v ad to circuit list
+File 118_c17.v ad to circuit list
+File 119_c17.v ad to circuit list
+File 120_c17.v ad to circuit list
+File 121_c17.v ad to circuit list
+File 122_c17.v ad to circuit list
+File 123_c17.v ad to circuit list
+File 124_c17.v ad to circuit list
+File 125_c17.v ad to circuit list
+File 126_c17.v ad to circuit list
+File 127_c17.v ad to circuit list
+File 128_c17.v ad to circuit list
+File 129_c17.v ad to circuit list
+File 130_c17.v ad to circuit list
+File 131_c17.v ad to circuit list
+File 132_c17.v ad to circuit list
+File 133_c17.v ad to circuit list
+File 134_c17.v ad to circuit list
+File 135_c17.v ad to circuit list
+File 136_c17.v ad to circuit list
+File 137_c17.v ad to circuit list
+File 138_c17.v ad to circuit list
+File 139_c17.v ad to circuit list
+File 140_c17.v ad to circuit list
+File 141_c17.v ad to circuit list
+File 142_c17.v ad to circuit list
+File 143_c17.v ad to circuit list
+File 144_c17.v ad to circuit list
+File 145_c17.v ad to circuit list
+File 146_c17.v ad to circuit list
+File 147_c17.v ad to circuit list
+File 148_c17.v ad to circuit list
+File 149_c17.v ad to circuit list
+File 150_c17.v ad to circuit list
+File 151_c17.v ad to circuit list
+File 152_c17.v ad to circuit list
+File 153_c17.v ad to circuit list
+File 154_c17.v ad to circuit list
+File 155_c17.v ad to circuit list
+File 156_c17.v ad to circuit list
+File 157_c17.v ad to circuit list
+File 158_c17.v ad to circuit list
+File 159_c17.v ad to circuit list
+File 160_c17.v ad to circuit list
+File 161_c17.v ad to circuit list
+File 162_c17.v ad to circuit list
+File 163_c17.v ad to circuit list
+File 164_c17.v ad to circuit list
+File 165_c17.v ad to circuit list
+File 166_c17.v ad to circuit list
+File 167_c17.v ad to circuit list
+File 168_c17.v ad to circuit list
+File 169_c17.v ad to circuit list
+File 170_c17.v ad to circuit list
+File 171_c17.v ad to circuit list
+File 172_c17.v ad to circuit list
+File 173_c17.v ad to circuit list
+File 174_c17.v ad to circuit list
+File 175_c17.v ad to circuit list
+File 176_c17.v ad to circuit list
+File 177_c17.v ad to circuit list
+File 178_c17.v ad to circuit list
+File 179_c17.v ad to circuit list
+File 180_c17.v ad to circuit list
+File 181_c17.v ad to circuit list
+File 182_c17.v ad to circuit list
+File 183_c17.v ad to circuit list
+File 184_c17.v ad to circuit list
+File 185_c17.v ad to circuit list
+File 186_c17.v ad to circuit list
+File 187_c17.v ad to circuit list
+File 188_c17.v ad to circuit list
+File 189_c17.v ad to circuit list
+File 190_c17.v ad to circuit list
+File 191_c17.v ad to circuit list
+File 192_c17.v ad to circuit list
+File 193_c17.v ad to circuit list
+File 194_c17.v ad to circuit list
+File 195_c17.v ad to circuit list
+File 196_c17.v ad to circuit list
+File 197_c17.v ad to circuit list
+File 198_c17.v ad to circuit list
+File 199_c17.v ad to circuit list
+File 200_c17.v ad to circuit list
+File 201_c17.v ad to circuit list
+File 202_c17.v ad to circuit list
+File 203_c17.v ad to circuit list
+File 204_c17.v ad to circuit list
+File 205_c17.v ad to circuit list
+File 206_c17.v ad to circuit list
+File 207_c17.v ad to circuit list
+File 208_c17.v ad to circuit list
+File 209_c17.v ad to circuit list
+File 210_c17.v ad to circuit list
+File 211_c17.v ad to circuit list
+File 212_c17.v ad to circuit list
+File 213_c17.v ad to circuit list
+File 214_c17.v ad to circuit list
+File 215_c17.v ad to circuit list
+File 216_c17.v ad to circuit list
+File 217_c17.v ad to circuit list
+File 218_c17.v ad to circuit list
+File 219_c17.v ad to circuit list
+File 220_c17.v ad to circuit list
+File 221_c17.v ad to circuit list
+File 222_c17.v ad to circuit list
+File 223_c17.v ad to circuit list
+File 224_c17.v ad to circuit list
+File 225_c17.v ad to circuit list
+File 226_c17.v ad to circuit list
+File 227_c17.v ad to circuit list
+File 228_c17.v ad to circuit list
+File 229_c17.v ad to circuit list
+File 230_c17.v ad to circuit list
+File 231_c17.v ad to circuit list
+File 232_c17.v ad to circuit list
+File 233_c17.v ad to circuit list
+File 234_c17.v ad to circuit list
+File 235_c17.v ad to circuit list
+File 236_c17.v ad to circuit list
+File 237_c17.v ad to circuit list
+File 238_c17.v ad to circuit list
+File 239_c17.v ad to circuit list
+File 240_c17.v ad to circuit list
+File 241_c17.v ad to circuit list
+File 242_c17.v ad to circuit list
+File 243_c17.v ad to circuit list
+File 244_c17.v ad to circuit list
+File 245_c17.v ad to circuit list
+File 246_c17.v ad to circuit list
+File 247_c17.v ad to circuit list
+File 248_c17.v ad to circuit list
+File 249_c17.v ad to circuit list
+File 250_c17.v ad to circuit list
+File 251_c17.v ad to circuit list
+File 252_c17.v ad to circuit list
+File 253_c17.v ad to circuit list
+File 254_c17.v ad to circuit list
+File 255_c17.v ad to circuit list
+File 256_c17.v ad to circuit list
+File 257_c17.v ad to circuit list
+File 258_c17.v ad to circuit list
+File 259_c17.v ad to circuit list
+File 260_c17.v ad to circuit list
+File 261_c17.v ad to circuit list
+File 262_c17.v ad to circuit list
+File 263_c17.v ad to circuit list
+File 264_c17.v ad to circuit list
+File 265_c17.v ad to circuit list
+File 266_c17.v ad to circuit list
+File 267_c17.v ad to circuit list
+File 268_c17.v ad to circuit list
+File 269_c17.v ad to circuit list
+File 270_c17.v ad to circuit list
+File 271_c17.v ad to circuit list
+File 272_c17.v ad to circuit list
+File 273_c17.v ad to circuit list
+File 274_c17.v ad to circuit list
+File 275_c17.v ad to circuit list
+File 276_c17.v ad to circuit list
+File 277_c17.v ad to circuit list
+File 278_c17.v ad to circuit list
+File 279_c17.v ad to circuit list
+File 280_c17.v ad to circuit list
+File 281_c17.v ad to circuit list
+File 282_c17.v ad to circuit list
+File 283_c17.v ad to circuit list
+File 284_c17.v ad to circuit list
+File 285_c17.v ad to circuit list
+File 286_c17.v ad to circuit list
+File 287_c17.v ad to circuit list
+File 288_c17.v ad to circuit list
+File 289_c17.v ad to circuit list
+File 290_c17.v ad to circuit list
+File 291_c17.v ad to circuit list
+File 292_c17.v ad to circuit list
+File 293_c17.v ad to circuit list
+File 294_c17.v ad to circuit list
+File 295_c17.v ad to circuit list
+File 296_c17.v ad to circuit list
+File 297_c17.v ad to circuit list
+File 298_c17.v ad to circuit list
+File 299_c17.v ad to circuit list
+File 300_c17.v ad to circuit list
+File 301_c17.v ad to circuit list
+File 302_c17.v ad to circuit list
+File 303_c17.v ad to circuit list
+File 304_c17.v ad to circuit list
+File 305_c17.v ad to circuit list
+File 306_c17.v ad to circuit list
+File 307_c17.v ad to circuit list
+File 308_c17.v ad to circuit list
+File 309_c17.v ad to circuit list
+File 310_c17.v ad to circuit list
+File 311_c17.v ad to circuit list
+File 312_c17.v ad to circuit list
+File 313_c17.v ad to circuit list
+File 314_c17.v ad to circuit list
+File 315_c17.v ad to circuit list
+File 316_c17.v ad to circuit list
+File 317_c17.v ad to circuit list
+File 318_c17.v ad to circuit list
+File 319_c17.v ad to circuit list
+File 320_c17.v ad to circuit list
+File 321_c17.v ad to circuit list
+File 322_c17.v ad to circuit list
+File 323_c17.v ad to circuit list
+File 324_c17.v ad to circuit list
+File 325_c17.v ad to circuit list
+File 326_c17.v ad to circuit list
+File 327_c17.v ad to circuit list
+File 328_c17.v ad to circuit list
+File 329_c17.v ad to circuit list
+File 330_c17.v ad to circuit list
+File 331_c17.v ad to circuit list
+File 332_c17.v ad to circuit list
+File 333_c17.v ad to circuit list
+File 334_c17.v ad to circuit list
+File 335_c17.v ad to circuit list
+File 336_c17.v ad to circuit list
+File 337_c17.v ad to circuit list
+File 338_c17.v ad to circuit list
+File 339_c17.v ad to circuit list
+File 340_c17.v ad to circuit list
+File 341_c17.v ad to circuit list
+File 342_c17.v ad to circuit list
+File 343_c17.v ad to circuit list
+File 344_c17.v ad to circuit list
+File 345_c17.v ad to circuit list
+File 346_c17.v ad to circuit list
+File 347_c17.v ad to circuit list
+File 348_c17.v ad to circuit list
+File 349_c17.v ad to circuit list
+File 350_c17.v ad to circuit list
+File 351_c17.v ad to circuit list
+File 352_c17.v ad to circuit list
+File 353_c17.v ad to circuit list
+File 354_c17.v ad to circuit list
+File 355_c17.v ad to circuit list
+File 356_c17.v ad to circuit list
+File 357_c17.v ad to circuit list
+File 358_c17.v ad to circuit list
+File 359_c17.v ad to circuit list
+File 360_c17.v ad to circuit list
+File 361_c17.v ad to circuit list
+File 362_c17.v ad to circuit list
+File 363_c17.v ad to circuit list
+File 364_c17.v ad to circuit list
+File 365_c17.v ad to circuit list
+File 366_c17.v ad to circuit list
+File 367_c17.v ad to circuit list
+File 368_c17.v ad to circuit list
+File 369_c17.v ad to circuit list
+File 370_c17.v ad to circuit list
+File 371_c17.v ad to circuit list
+File 372_c17.v ad to circuit list
+File 373_c17.v ad to circuit list
+File 374_c17.v ad to circuit list
+File 375_c17.v ad to circuit list
+File 376_c17.v ad to circuit list
+File 377_c17.v ad to circuit list
+File 378_c17.v ad to circuit list
+File 379_c17.v ad to circuit list
+File 380_c17.v ad to circuit list
+File 381_c17.v ad to circuit list
+File 382_c17.v ad to circuit list
+File 383_c17.v ad to circuit list
+File 384_c17.v ad to circuit list
+File 385_c17.v ad to circuit list
+File 386_c17.v ad to circuit list
+File 387_c17.v ad to circuit list
+File 388_c17.v ad to circuit list
+File 389_c17.v ad to circuit list
+File 390_c17.v ad to circuit list
+File 391_c17.v ad to circuit list
+File 392_c17.v ad to circuit list
+File 393_c17.v ad to circuit list
+File 394_c17.v ad to circuit list
+File 395_c17.v ad to circuit list
+File 396_c17.v ad to circuit list
+File 397_c17.v ad to circuit list
+File 398_c17.v ad to circuit list
+File 399_c17.v ad to circuit list
+File 400_c17.v ad to circuit list
+File 401_c17.v ad to circuit list
+File 402_c17.v ad to circuit list
+File 403_c17.v ad to circuit list
+File 404_c17.v ad to circuit list
+File 405_c17.v ad to circuit list
+File 406_c17.v ad to circuit list
+File 407_c17.v ad to circuit list
+File 408_c17.v ad to circuit list
+File 409_c17.v ad to circuit list
+File 410_c17.v ad to circuit list
+File 411_c17.v ad to circuit list
+File 412_c17.v ad to circuit list
+File 413_c17.v ad to circuit list
+File 414_c17.v ad to circuit list
+File 415_c17.v ad to circuit list
+File 416_c17.v ad to circuit list
+File 417_c17.v ad to circuit list
+File 418_c17.v ad to circuit list
+File 419_c17.v ad to circuit list
+File 420_c17.v ad to circuit list
+File 421_c17.v ad to circuit list
+File 422_c17.v ad to circuit list
+File 423_c17.v ad to circuit list
+File 424_c17.v ad to circuit list
+File 425_c17.v ad to circuit list
+File 426_c17.v ad to circuit list
+File 427_c17.v ad to circuit list
+File 428_c17.v ad to circuit list
+File 429_c17.v ad to circuit list
+File 430_c17.v ad to circuit list
+File 431_c17.v ad to circuit list
+File 432_c17.v ad to circuit list
+File 433_c17.v ad to circuit list
+File 434_c17.v ad to circuit list
+File 435_c17.v ad to circuit list
+File 436_c17.v ad to circuit list
+File 437_c17.v ad to circuit list
+File 438_c17.v ad to circuit list
+File 439_c17.v ad to circuit list
+File 440_c17.v ad to circuit list
+File 441_c17.v ad to circuit list
+File 442_c17.v ad to circuit list
+File 443_c17.v ad to circuit list
+File 444_c17.v ad to circuit list
+File 445_c17.v ad to circuit list
+File 446_c17.v ad to circuit list
+File 447_c17.v ad to circuit list
+File 448_c17.v ad to circuit list
+File 449_c17.v ad to circuit list
+File 450_c17.v ad to circuit list
+File 451_c17.v ad to circuit list
+File 452_c17.v ad to circuit list
+File 453_c17.v ad to circuit list
+File 454_c17.v ad to circuit list
+File 455_c17.v ad to circuit list
+File 456_c17.v ad to circuit list
+File 457_c17.v ad to circuit list
+File 458_c17.v ad to circuit list
+File 459_c17.v ad to circuit list
+File 460_c17.v ad to circuit list
+File 461_c17.v ad to circuit list
+File 462_c17.v ad to circuit list
+File 463_c17.v ad to circuit list
+File 464_c17.v ad to circuit list
+File 465_c17.v ad to circuit list
+File 466_c17.v ad to circuit list
+File 467_c17.v ad to circuit list
+File 468_c17.v ad to circuit list
+File 469_c17.v ad to circuit list
+File 470_c17.v ad to circuit list
+File 471_c17.v ad to circuit list
+File 472_c17.v ad to circuit list
+File 473_c17.v ad to circuit list
+File 474_c17.v ad to circuit list
+File 475_c17.v ad to circuit list
+File 476_c17.v ad to circuit list
+File 477_c17.v ad to circuit list
+File 478_c17.v ad to circuit list
+File 479_c17.v ad to circuit list
+File 480_c17.v ad to circuit list
+File 481_c17.v ad to circuit list
+File 482_c17.v ad to circuit list
+File 483_c17.v ad to circuit list
+File 484_c17.v ad to circuit list
+File 485_c17.v ad to circuit list
+File 486_c17.v ad to circuit list
+File 487_c17.v ad to circuit list
+File 488_c17.v ad to circuit list
+File 489_c17.v ad to circuit list
+File 490_c17.v ad to circuit list
+File 491_c17.v ad to circuit list
+File 492_c17.v ad to circuit list
+File 493_c17.v ad to circuit list
+File 494_c17.v ad to circuit list
+File 495_c17.v ad to circuit list
+File 496_c17.v ad to circuit list
+File 497_c17.v ad to circuit list
+File 498_c17.v ad to circuit list
+File 499_c17.v ad to circuit list
+File 500_c17.v ad to circuit list
+File 501_c17.v ad to circuit list
+File 502_c17.v ad to circuit list
+File 503_c17.v ad to circuit list
+File 504_c17.v ad to circuit list
+File 505_c17.v ad to circuit list
+File 506_c17.v ad to circuit list
+File 507_c17.v ad to circuit list
+File 508_c17.v ad to circuit list
+File 509_c17.v ad to circuit list
+File 510_c17.v ad to circuit list
+File 511_c17.v ad to circuit list
+File 512_c17.v ad to circuit list
+File 513_c17.v ad to circuit list
+File 514_c17.v ad to circuit list
+File 515_c17.v ad to circuit list
+File 516_c17.v ad to circuit list
+File 517_c17.v ad to circuit list
+File 518_c17.v ad to circuit list
+File 519_c17.v ad to circuit list
+File 520_c17.v ad to circuit list
+File 521_c17.v ad to circuit list
+File 522_c17.v ad to circuit list
+File 523_c17.v ad to circuit list
+File 524_c17.v ad to circuit list
+File 525_c17.v ad to circuit list
+File 526_c17.v ad to circuit list
+File 527_c17.v ad to circuit list
+File 528_c17.v ad to circuit list
+File 529_c17.v ad to circuit list
+File 530_c17.v ad to circuit list
+File 531_c17.v ad to circuit list
+File 532_c17.v ad to circuit list
+File 533_c17.v ad to circuit list
+File 534_c17.v ad to circuit list
+File 535_c17.v ad to circuit list
+File 536_c17.v ad to circuit list
+File 537_c17.v ad to circuit list
+File 538_c17.v ad to circuit list
+File 539_c17.v ad to circuit list
+File 540_c17.v ad to circuit list
+File 541_c17.v ad to circuit list
+File 542_c17.v ad to circuit list
+File 543_c17.v ad to circuit list
+File 544_c17.v ad to circuit list
+File 545_c17.v ad to circuit list
+File 546_c17.v ad to circuit list
+File 547_c17.v ad to circuit list
+File 548_c17.v ad to circuit list
+File 549_c17.v ad to circuit list
+File 550_c17.v ad to circuit list
+File 551_c17.v ad to circuit list
+File 552_c17.v ad to circuit list
+File 553_c17.v ad to circuit list
+File 554_c17.v ad to circuit list
+File 555_c17.v ad to circuit list
+File 556_c17.v ad to circuit list
+File 557_c17.v ad to circuit list
+File 558_c17.v ad to circuit list
+File 559_c17.v ad to circuit list
+File 560_c17.v ad to circuit list
+File 561_c17.v ad to circuit list
+File 562_c17.v ad to circuit list
+File 563_c17.v ad to circuit list
+File 564_c17.v ad to circuit list
+File 565_c17.v ad to circuit list
+File 566_c17.v ad to circuit list
+File 567_c17.v ad to circuit list
+File 568_c17.v ad to circuit list
+File 569_c17.v ad to circuit list
+File 570_c17.v ad to circuit list
+File 571_c17.v ad to circuit list
+File 572_c17.v ad to circuit list
+File 573_c17.v ad to circuit list
+File 574_c17.v ad to circuit list
+File 575_c17.v ad to circuit list
+File 576_c17.v ad to circuit list
+File 577_c17.v ad to circuit list
+File 578_c17.v ad to circuit list
+File 579_c17.v ad to circuit list
+File 580_c17.v ad to circuit list
+File 581_c17.v ad to circuit list
+File 582_c17.v ad to circuit list
+File 583_c17.v ad to circuit list
+File 584_c17.v ad to circuit list
+File 585_c17.v ad to circuit list
+File 586_c17.v ad to circuit list
+File 587_c17.v ad to circuit list
+File 588_c17.v ad to circuit list
+File 589_c17.v ad to circuit list
+File 590_c17.v ad to circuit list
+File 591_c17.v ad to circuit list
+File 592_c17.v ad to circuit list
+File 593_c17.v ad to circuit list
+File 594_c17.v ad to circuit list
+File 595_c17.v ad to circuit list
+File 596_c17.v ad to circuit list
+File 597_c17.v ad to circuit list
+File 598_c17.v ad to circuit list
+File 599_c17.v ad to circuit list
+File 600_c17.v ad to circuit list
+File 601_c17.v ad to circuit list
+File 602_c17.v ad to circuit list
+File 603_c17.v ad to circuit list
+File 604_c17.v ad to circuit list
+File 605_c17.v ad to circuit list
+File 606_c17.v ad to circuit list
+File 607_c17.v ad to circuit list
+File 608_c17.v ad to circuit list
+File 609_c17.v ad to circuit list
+File 610_c17.v ad to circuit list
+File 611_c17.v ad to circuit list
+File 612_c17.v ad to circuit list
+File 613_c17.v ad to circuit list
+File 614_c17.v ad to circuit list
+File 615_c17.v ad to circuit list
+File 616_c17.v ad to circuit list
+File 617_c17.v ad to circuit list
+File 618_c17.v ad to circuit list
+File 619_c17.v ad to circuit list
+File 620_c17.v ad to circuit list
+File 621_c17.v ad to circuit list
+File 622_c17.v ad to circuit list
+File 623_c17.v ad to circuit list
+File 624_c17.v ad to circuit list
+File 625_c17.v ad to circuit list
+File 626_c17.v ad to circuit list
+File 627_c17.v ad to circuit list
+File 628_c17.v ad to circuit list
+File 629_c17.v ad to circuit list
+File 630_c17.v ad to circuit list
+File 631_c17.v ad to circuit list
+File 632_c17.v ad to circuit list
+File 633_c17.v ad to circuit list
+File 634_c17.v ad to circuit list
+File 635_c17.v ad to circuit list
+File 636_c17.v ad to circuit list
+File 637_c17.v ad to circuit list
+File 638_c17.v ad to circuit list
+File 639_c17.v ad to circuit list
+File 640_c17.v ad to circuit list
+File 641_c17.v ad to circuit list
+File 642_c17.v ad to circuit list
+File 643_c17.v ad to circuit list
+File 644_c17.v ad to circuit list
+File 645_c17.v ad to circuit list
+File 646_c17.v ad to circuit list
+File 647_c17.v ad to circuit list
+File 648_c17.v ad to circuit list
+File 649_c17.v ad to circuit list
+File 650_c17.v ad to circuit list
+File 651_c17.v ad to circuit list
+File 652_c17.v ad to circuit list
+File 653_c17.v ad to circuit list
+File 654_c17.v ad to circuit list
+File 655_c17.v ad to circuit list
+File 656_c17.v ad to circuit list
+File 657_c17.v ad to circuit list
+File 658_c17.v ad to circuit list
+File 659_c17.v ad to circuit list
+File 660_c17.v ad to circuit list
+File 661_c17.v ad to circuit list
+File 662_c17.v ad to circuit list
+File 663_c17.v ad to circuit list
+File 664_c17.v ad to circuit list
+File 665_c17.v ad to circuit list
+File 666_c17.v ad to circuit list
+File 667_c17.v ad to circuit list
+File 668_c17.v ad to circuit list
+File 669_c17.v ad to circuit list
+File 670_c17.v ad to circuit list
+File 671_c17.v ad to circuit list
+File 672_c17.v ad to circuit list
+File 673_c17.v ad to circuit list
+File 674_c17.v ad to circuit list
+File 675_c17.v ad to circuit list
+File 676_c17.v ad to circuit list
+File 677_c17.v ad to circuit list
+File 678_c17.v ad to circuit list
+File 679_c17.v ad to circuit list
+File 680_c17.v ad to circuit list
+File 681_c17.v ad to circuit list
+File 682_c17.v ad to circuit list
+File 683_c17.v ad to circuit list
+File 684_c17.v ad to circuit list
+File 685_c17.v ad to circuit list
+File 686_c17.v ad to circuit list
+File 687_c17.v ad to circuit list
+File 688_c17.v ad to circuit list
+File 689_c17.v ad to circuit list
+File 690_c17.v ad to circuit list
+File 691_c17.v ad to circuit list
+File 692_c17.v ad to circuit list
+File 693_c17.v ad to circuit list
+File 694_c17.v ad to circuit list
+File 695_c17.v ad to circuit list
+File 696_c17.v ad to circuit list
+File 697_c17.v ad to circuit list
+File 698_c17.v ad to circuit list
+File 699_c17.v ad to circuit list
+File 700_c17.v ad to circuit list
+File 701_c17.v ad to circuit list
+File 702_c17.v ad to circuit list
+File 703_c17.v ad to circuit list
+File 704_c17.v ad to circuit list
+File 705_c17.v ad to circuit list
+File 706_c17.v ad to circuit list
+File 707_c17.v ad to circuit list
+File 708_c17.v ad to circuit list
+File 709_c17.v ad to circuit list
+File 710_c17.v ad to circuit list
+File 711_c17.v ad to circuit list
+File 712_c17.v ad to circuit list
+File 713_c17.v ad to circuit list
+File 714_c17.v ad to circuit list
+File 715_c17.v ad to circuit list
+File 716_c17.v ad to circuit list
+File 717_c17.v ad to circuit list
+File 718_c17.v ad to circuit list
+File 719_c17.v ad to circuit list
+File 720_c17.v ad to circuit list
+File 721_c17.v ad to circuit list
+File 722_c17.v ad to circuit list
+File 723_c17.v ad to circuit list
+File 724_c17.v ad to circuit list
+File 725_c17.v ad to circuit list
+File 726_c17.v ad to circuit list
+File 727_c17.v ad to circuit list
+File 728_c17.v ad to circuit list
+File 0_c17.txt ad to circuit list
+File 1_c17.txt ad to circuit list
+File 2_c17.txt ad to circuit list
+File 3_c17.txt ad to circuit list
+File 4_c17.txt ad to circuit list
+File 5_c17.txt ad to circuit list
+File 6_c17.txt ad to circuit list
+File 7_c17.txt ad to circuit list
+File 8_c17.txt ad to circuit list
+File 9_c17.txt ad to circuit list
+File 10_c17.txt ad to circuit list
+File 11_c17.txt ad to circuit list
+File 12_c17.txt ad to circuit list
+File 13_c17.txt ad to circuit list
+File 14_c17.txt ad to circuit list
+File 15_c17.txt ad to circuit list
+File 16_c17.txt ad to circuit list
+File 17_c17.txt ad to circuit list
+File 18_c17.txt ad to circuit list
+File 19_c17.txt ad to circuit list
+File 20_c17.txt ad to circuit list
+File 21_c17.txt ad to circuit list
+File 22_c17.txt ad to circuit list
+File 23_c17.txt ad to circuit list
+File 24_c17.txt ad to circuit list
+File 25_c17.txt ad to circuit list
+File 26_c17.txt ad to circuit list
+File 27_c17.txt ad to circuit list
+File 28_c17.txt ad to circuit list
+File 29_c17.txt ad to circuit list
+File 30_c17.txt ad to circuit list
+File 31_c17.txt ad to circuit list
+File 32_c17.txt ad to circuit list
+File 33_c17.txt ad to circuit list
+File 34_c17.txt ad to circuit list
+File 35_c17.txt ad to circuit list
+File 36_c17.txt ad to circuit list
+File 37_c17.txt ad to circuit list
+File 38_c17.txt ad to circuit list
+File 39_c17.txt ad to circuit list
+File 40_c17.txt ad to circuit list
+File 41_c17.txt ad to circuit list
+File 42_c17.txt ad to circuit list
+File 43_c17.txt ad to circuit list
+File 44_c17.txt ad to circuit list
+File 45_c17.txt ad to circuit list
+File 46_c17.txt ad to circuit list
+File 47_c17.txt ad to circuit list
+File 48_c17.txt ad to circuit list
+File 49_c17.txt ad to circuit list
+File 50_c17.txt ad to circuit list
+File 51_c17.txt ad to circuit list
+File 52_c17.txt ad to circuit list
+File 53_c17.txt ad to circuit list
+File 54_c17.txt ad to circuit list
+File 55_c17.txt ad to circuit list
+File 56_c17.txt ad to circuit list
+File 57_c17.txt ad to circuit list
+File 58_c17.txt ad to circuit list
+File 59_c17.txt ad to circuit list
+File 60_c17.txt ad to circuit list
+File 61_c17.txt ad to circuit list
+File 62_c17.txt ad to circuit list
+File 63_c17.txt ad to circuit list
+File 64_c17.txt ad to circuit list
+File 65_c17.txt ad to circuit list
+File 66_c17.txt ad to circuit list
+File 67_c17.txt ad to circuit list
+File 68_c17.txt ad to circuit list
+File 69_c17.txt ad to circuit list
+File 70_c17.txt ad to circuit list
+File 71_c17.txt ad to circuit list
+File 72_c17.txt ad to circuit list
+File 73_c17.txt ad to circuit list
+File 74_c17.txt ad to circuit list
+File 75_c17.txt ad to circuit list
+File 76_c17.txt ad to circuit list
+File 77_c17.txt ad to circuit list
+File 78_c17.txt ad to circuit list
+File 79_c17.txt ad to circuit list
+File 80_c17.txt ad to circuit list
+File 81_c17.txt ad to circuit list
+File 82_c17.txt ad to circuit list
+File 83_c17.txt ad to circuit list
+File 84_c17.txt ad to circuit list
+File 85_c17.txt ad to circuit list
+File 86_c17.txt ad to circuit list
+File 87_c17.txt ad to circuit list
+File 88_c17.txt ad to circuit list
+File 89_c17.txt ad to circuit list
+File 90_c17.txt ad to circuit list
+File 91_c17.txt ad to circuit list
+File 92_c17.txt ad to circuit list
+File 93_c17.txt ad to circuit list
+File 94_c17.txt ad to circuit list
+File 95_c17.txt ad to circuit list
+File 96_c17.txt ad to circuit list
+File 97_c17.txt ad to circuit list
+File 98_c17.txt ad to circuit list
+File 99_c17.txt ad to circuit list
+File 100_c17.txt ad to circuit list
+File 101_c17.txt ad to circuit list
+File 102_c17.txt ad to circuit list
+File 103_c17.txt ad to circuit list
+File 104_c17.txt ad to circuit list
+File 105_c17.txt ad to circuit list
+File 106_c17.txt ad to circuit list
+File 107_c17.txt ad to circuit list
+File 108_c17.txt ad to circuit list
+File 109_c17.txt ad to circuit list
+File 110_c17.txt ad to circuit list
+File 111_c17.txt ad to circuit list
+File 112_c17.txt ad to circuit list
+File 113_c17.txt ad to circuit list
+File 114_c17.txt ad to circuit list
+File 115_c17.txt ad to circuit list
+File 116_c17.txt ad to circuit list
+File 117_c17.txt ad to circuit list
+File 118_c17.txt ad to circuit list
+File 119_c17.txt ad to circuit list
+File 120_c17.txt ad to circuit list
+File 121_c17.txt ad to circuit list
+File 122_c17.txt ad to circuit list
+File 123_c17.txt ad to circuit list
+File 124_c17.txt ad to circuit list
+File 125_c17.txt ad to circuit list
+File 126_c17.txt ad to circuit list
+File 127_c17.txt ad to circuit list
+File 128_c17.txt ad to circuit list
+File 129_c17.txt ad to circuit list
+File 130_c17.txt ad to circuit list
+File 131_c17.txt ad to circuit list
+File 132_c17.txt ad to circuit list
+File 133_c17.txt ad to circuit list
+File 134_c17.txt ad to circuit list
+File 135_c17.txt ad to circuit list
+File 136_c17.txt ad to circuit list
+File 137_c17.txt ad to circuit list
+File 138_c17.txt ad to circuit list
+File 139_c17.txt ad to circuit list
+File 140_c17.txt ad to circuit list
+File 141_c17.txt ad to circuit list
+File 142_c17.txt ad to circuit list
+File 143_c17.txt ad to circuit list
+File 144_c17.txt ad to circuit list
+File 145_c17.txt ad to circuit list
+File 146_c17.txt ad to circuit list
+File 147_c17.txt ad to circuit list
+File 148_c17.txt ad to circuit list
+File 149_c17.txt ad to circuit list
+File 150_c17.txt ad to circuit list
+File 151_c17.txt ad to circuit list
+File 152_c17.txt ad to circuit list
+File 153_c17.txt ad to circuit list
+File 154_c17.txt ad to circuit list
+File 155_c17.txt ad to circuit list
+File 156_c17.txt ad to circuit list
+File 157_c17.txt ad to circuit list
+File 158_c17.txt ad to circuit list
+File 159_c17.txt ad to circuit list
+File 160_c17.txt ad to circuit list
+File 161_c17.txt ad to circuit list
+File 162_c17.txt ad to circuit list
+File 163_c17.txt ad to circuit list
+File 164_c17.txt ad to circuit list
+File 165_c17.txt ad to circuit list
+File 166_c17.txt ad to circuit list
+File 167_c17.txt ad to circuit list
+File 168_c17.txt ad to circuit list
+File 169_c17.txt ad to circuit list
+File 170_c17.txt ad to circuit list
+File 171_c17.txt ad to circuit list
+File 172_c17.txt ad to circuit list
+File 173_c17.txt ad to circuit list
+File 174_c17.txt ad to circuit list
+File 175_c17.txt ad to circuit list
+File 176_c17.txt ad to circuit list
+File 177_c17.txt ad to circuit list
+File 178_c17.txt ad to circuit list
+File 179_c17.txt ad to circuit list
+File 180_c17.txt ad to circuit list
+File 181_c17.txt ad to circuit list
+File 182_c17.txt ad to circuit list
+File 183_c17.txt ad to circuit list
+File 184_c17.txt ad to circuit list
+File 185_c17.txt ad to circuit list
+File 186_c17.txt ad to circuit list
+File 187_c17.txt ad to circuit list
+File 188_c17.txt ad to circuit list
+File 189_c17.txt ad to circuit list
+File 190_c17.txt ad to circuit list
+File 191_c17.txt ad to circuit list
+File 192_c17.txt ad to circuit list
+File 193_c17.txt ad to circuit list
+File 194_c17.txt ad to circuit list
+File 195_c17.txt ad to circuit list
+File 196_c17.txt ad to circuit list
+File 197_c17.txt ad to circuit list
+File 198_c17.txt ad to circuit list
+File 199_c17.txt ad to circuit list
+File 200_c17.txt ad to circuit list
+File 201_c17.txt ad to circuit list
+File 202_c17.txt ad to circuit list
+File 203_c17.txt ad to circuit list
+File 204_c17.txt ad to circuit list
+File 205_c17.txt ad to circuit list
+File 206_c17.txt ad to circuit list
+File 207_c17.txt ad to circuit list
+File 208_c17.txt ad to circuit list
+File 209_c17.txt ad to circuit list
+File 210_c17.txt ad to circuit list
+File 211_c17.txt ad to circuit list
+File 212_c17.txt ad to circuit list
+File 213_c17.txt ad to circuit list
+File 214_c17.txt ad to circuit list
+File 215_c17.txt ad to circuit list
+File 216_c17.txt ad to circuit list
+File 217_c17.txt ad to circuit list
+File 218_c17.txt ad to circuit list
+File 219_c17.txt ad to circuit list
+File 220_c17.txt ad to circuit list
+File 221_c17.txt ad to circuit list
+File 222_c17.txt ad to circuit list
+File 223_c17.txt ad to circuit list
+File 224_c17.txt ad to circuit list
+File 225_c17.txt ad to circuit list
+File 226_c17.txt ad to circuit list
+File 227_c17.txt ad to circuit list
+File 228_c17.txt ad to circuit list
+File 229_c17.txt ad to circuit list
+File 230_c17.txt ad to circuit list
+File 231_c17.txt ad to circuit list
+File 232_c17.txt ad to circuit list
+File 233_c17.txt ad to circuit list
+File 234_c17.txt ad to circuit list
+File 235_c17.txt ad to circuit list
+File 236_c17.txt ad to circuit list
+File 237_c17.txt ad to circuit list
+File 238_c17.txt ad to circuit list
+File 239_c17.txt ad to circuit list
+File 240_c17.txt ad to circuit list
+File 241_c17.txt ad to circuit list
+File 242_c17.txt ad to circuit list
+File 243_c17.txt ad to circuit list
+File 244_c17.txt ad to circuit list
+File 245_c17.txt ad to circuit list
+File 246_c17.txt ad to circuit list
+File 247_c17.txt ad to circuit list
+File 248_c17.txt ad to circuit list
+File 249_c17.txt ad to circuit list
+File 250_c17.txt ad to circuit list
+File 251_c17.txt ad to circuit list
+File 252_c17.txt ad to circuit list
+File 253_c17.txt ad to circuit list
+File 254_c17.txt ad to circuit list
+File 255_c17.txt ad to circuit list
+File 256_c17.txt ad to circuit list
+File 257_c17.txt ad to circuit list
+File 258_c17.txt ad to circuit list
+File 259_c17.txt ad to circuit list
+File 260_c17.txt ad to circuit list
+File 261_c17.txt ad to circuit list
+File 262_c17.txt ad to circuit list
+File 263_c17.txt ad to circuit list
+File 264_c17.txt ad to circuit list
+File 265_c17.txt ad to circuit list
+File 266_c17.txt ad to circuit list
+File 267_c17.txt ad to circuit list
+File 268_c17.txt ad to circuit list
+File 269_c17.txt ad to circuit list
+File 270_c17.txt ad to circuit list
+File 271_c17.txt ad to circuit list
+File 272_c17.txt ad to circuit list
+File 273_c17.txt ad to circuit list
+File 274_c17.txt ad to circuit list
+File 275_c17.txt ad to circuit list
+File 276_c17.txt ad to circuit list
+File 277_c17.txt ad to circuit list
+File 278_c17.txt ad to circuit list
+File 279_c17.txt ad to circuit list
+File 280_c17.txt ad to circuit list
+File 281_c17.txt ad to circuit list
+File 282_c17.txt ad to circuit list
+File 283_c17.txt ad to circuit list
+File 284_c17.txt ad to circuit list
+File 285_c17.txt ad to circuit list
+File 286_c17.txt ad to circuit list
+File 287_c17.txt ad to circuit list
+File 288_c17.txt ad to circuit list
+File 289_c17.txt ad to circuit list
+File 290_c17.txt ad to circuit list
+File 291_c17.txt ad to circuit list
+File 292_c17.txt ad to circuit list
+File 293_c17.txt ad to circuit list
+File 294_c17.txt ad to circuit list
+File 295_c17.txt ad to circuit list
+File 296_c17.txt ad to circuit list
+File 297_c17.txt ad to circuit list
+File 298_c17.txt ad to circuit list
+File 299_c17.txt ad to circuit list
+File 300_c17.txt ad to circuit list
+File 301_c17.txt ad to circuit list
+File 302_c17.txt ad to circuit list
+File 303_c17.txt ad to circuit list
+File 304_c17.txt ad to circuit list
+File 305_c17.txt ad to circuit list
+File 306_c17.txt ad to circuit list
+File 307_c17.txt ad to circuit list
+File 308_c17.txt ad to circuit list
+File 309_c17.txt ad to circuit list
+File 310_c17.txt ad to circuit list
+File 311_c17.txt ad to circuit list
+File 312_c17.txt ad to circuit list
+File 313_c17.txt ad to circuit list
+File 314_c17.txt ad to circuit list
+File 315_c17.txt ad to circuit list
+File 316_c17.txt ad to circuit list
+File 317_c17.txt ad to circuit list
+File 318_c17.txt ad to circuit list
+File 319_c17.txt ad to circuit list
+File 320_c17.txt ad to circuit list
+File 321_c17.txt ad to circuit list
+File 322_c17.txt ad to circuit list
+File 323_c17.txt ad to circuit list
+File 324_c17.txt ad to circuit list
+File 325_c17.txt ad to circuit list
+File 326_c17.txt ad to circuit list
+File 327_c17.txt ad to circuit list
+File 328_c17.txt ad to circuit list
+File 329_c17.txt ad to circuit list
+File 330_c17.txt ad to circuit list
+File 331_c17.txt ad to circuit list
+File 332_c17.txt ad to circuit list
+File 333_c17.txt ad to circuit list
+File 334_c17.txt ad to circuit list
+File 335_c17.txt ad to circuit list
+File 336_c17.txt ad to circuit list
+File 337_c17.txt ad to circuit list
+File 338_c17.txt ad to circuit list
+File 339_c17.txt ad to circuit list
+File 340_c17.txt ad to circuit list
+File 341_c17.txt ad to circuit list
+File 342_c17.txt ad to circuit list
+File 343_c17.txt ad to circuit list
+File 344_c17.txt ad to circuit list
+File 345_c17.txt ad to circuit list
+File 346_c17.txt ad to circuit list
+File 347_c17.txt ad to circuit list
+File 348_c17.txt ad to circuit list
+File 349_c17.txt ad to circuit list
+File 350_c17.txt ad to circuit list
+File 351_c17.txt ad to circuit list
+File 352_c17.txt ad to circuit list
+File 353_c17.txt ad to circuit list
+File 354_c17.txt ad to circuit list
+File 355_c17.txt ad to circuit list
+File 356_c17.txt ad to circuit list
+File 357_c17.txt ad to circuit list
+File 358_c17.txt ad to circuit list
+File 359_c17.txt ad to circuit list
+File 360_c17.txt ad to circuit list
+File 361_c17.txt ad to circuit list
+File 362_c17.txt ad to circuit list
+File 363_c17.txt ad to circuit list
+File 364_c17.txt ad to circuit list
+File 365_c17.txt ad to circuit list
+File 366_c17.txt ad to circuit list
+File 367_c17.txt ad to circuit list
+File 368_c17.txt ad to circuit list
+File 369_c17.txt ad to circuit list
+File 370_c17.txt ad to circuit list
+File 371_c17.txt ad to circuit list
+File 372_c17.txt ad to circuit list
+File 373_c17.txt ad to circuit list
+File 374_c17.txt ad to circuit list
+File 375_c17.txt ad to circuit list
+File 376_c17.txt ad to circuit list
+File 377_c17.txt ad to circuit list
+File 378_c17.txt ad to circuit list
+File 379_c17.txt ad to circuit list
+File 380_c17.txt ad to circuit list
+File 381_c17.txt ad to circuit list
+File 382_c17.txt ad to circuit list
+File 383_c17.txt ad to circuit list
+File 384_c17.txt ad to circuit list
+File 385_c17.txt ad to circuit list
+File 386_c17.txt ad to circuit list
+File 387_c17.txt ad to circuit list
+File 388_c17.txt ad to circuit list
+File 389_c17.txt ad to circuit list
+File 390_c17.txt ad to circuit list
+File 391_c17.txt ad to circuit list
+File 392_c17.txt ad to circuit list
+File 393_c17.txt ad to circuit list
+File 394_c17.txt ad to circuit list
+File 395_c17.txt ad to circuit list
+File 396_c17.txt ad to circuit list
+File 397_c17.txt ad to circuit list
+File 398_c17.txt ad to circuit list
+File 399_c17.txt ad to circuit list
+File 400_c17.txt ad to circuit list
+File 401_c17.txt ad to circuit list
+File 402_c17.txt ad to circuit list
+File 403_c17.txt ad to circuit list
+File 404_c17.txt ad to circuit list
+File 405_c17.txt ad to circuit list
+File 406_c17.txt ad to circuit list
+File 407_c17.txt ad to circuit list
+File 408_c17.txt ad to circuit list
+File 409_c17.txt ad to circuit list
+File 410_c17.txt ad to circuit list
+File 411_c17.txt ad to circuit list
+File 412_c17.txt ad to circuit list
+File 413_c17.txt ad to circuit list
+File 414_c17.txt ad to circuit list
+File 415_c17.txt ad to circuit list
+File 416_c17.txt ad to circuit list
+File 417_c17.txt ad to circuit list
+File 418_c17.txt ad to circuit list
+File 419_c17.txt ad to circuit list
+File 420_c17.txt ad to circuit list
+File 421_c17.txt ad to circuit list
+File 422_c17.txt ad to circuit list
+File 423_c17.txt ad to circuit list
+File 424_c17.txt ad to circuit list
+File 425_c17.txt ad to circuit list
+File 426_c17.txt ad to circuit list
+File 427_c17.txt ad to circuit list
+File 428_c17.txt ad to circuit list
+File 429_c17.txt ad to circuit list
+File 430_c17.txt ad to circuit list
+File 431_c17.txt ad to circuit list
+File 432_c17.txt ad to circuit list
+File 433_c17.txt ad to circuit list
+File 434_c17.txt ad to circuit list
+File 435_c17.txt ad to circuit list
+File 436_c17.txt ad to circuit list
+File 437_c17.txt ad to circuit list
+File 438_c17.txt ad to circuit list
+File 439_c17.txt ad to circuit list
+File 440_c17.txt ad to circuit list
+File 441_c17.txt ad to circuit list
+File 442_c17.txt ad to circuit list
+File 443_c17.txt ad to circuit list
+File 444_c17.txt ad to circuit list
+File 445_c17.txt ad to circuit list
+File 446_c17.txt ad to circuit list
+File 447_c17.txt ad to circuit list
+File 448_c17.txt ad to circuit list
+File 449_c17.txt ad to circuit list
+File 450_c17.txt ad to circuit list
+File 451_c17.txt ad to circuit list
+File 452_c17.txt ad to circuit list
+File 453_c17.txt ad to circuit list
+File 454_c17.txt ad to circuit list
+File 455_c17.txt ad to circuit list
+File 456_c17.txt ad to circuit list
+File 457_c17.txt ad to circuit list
+File 458_c17.txt ad to circuit list
+File 459_c17.txt ad to circuit list
+File 460_c17.txt ad to circuit list
+File 461_c17.txt ad to circuit list
+File 462_c17.txt ad to circuit list
+File 463_c17.txt ad to circuit list
+File 464_c17.txt ad to circuit list
+File 465_c17.txt ad to circuit list
+File 466_c17.txt ad to circuit list
+File 467_c17.txt ad to circuit list
+File 468_c17.txt ad to circuit list
+File 469_c17.txt ad to circuit list
+File 470_c17.txt ad to circuit list
+File 471_c17.txt ad to circuit list
+File 472_c17.txt ad to circuit list
+File 473_c17.txt ad to circuit list
+File 474_c17.txt ad to circuit list
+File 475_c17.txt ad to circuit list
+File 476_c17.txt ad to circuit list
+File 477_c17.txt ad to circuit list
+File 478_c17.txt ad to circuit list
+File 479_c17.txt ad to circuit list
+File 480_c17.txt ad to circuit list
+File 481_c17.txt ad to circuit list
+File 482_c17.txt ad to circuit list
+File 483_c17.txt ad to circuit list
+File 484_c17.txt ad to circuit list
+File 485_c17.txt ad to circuit list
+File 486_c17.txt ad to circuit list
+File 487_c17.txt ad to circuit list
+File 488_c17.txt ad to circuit list
+File 489_c17.txt ad to circuit list
+File 490_c17.txt ad to circuit list
+File 491_c17.txt ad to circuit list
+File 492_c17.txt ad to circuit list
+File 493_c17.txt ad to circuit list
+File 494_c17.txt ad to circuit list
+File 495_c17.txt ad to circuit list
+File 496_c17.txt ad to circuit list
+File 497_c17.txt ad to circuit list
+File 498_c17.txt ad to circuit list
+File 499_c17.txt ad to circuit list
+File 500_c17.txt ad to circuit list
+File 501_c17.txt ad to circuit list
+File 502_c17.txt ad to circuit list
+File 503_c17.txt ad to circuit list
+File 504_c17.txt ad to circuit list
+File 505_c17.txt ad to circuit list
+File 506_c17.txt ad to circuit list
+File 507_c17.txt ad to circuit list
+File 508_c17.txt ad to circuit list
+File 509_c17.txt ad to circuit list
+File 510_c17.txt ad to circuit list
+File 511_c17.txt ad to circuit list
+File 512_c17.txt ad to circuit list
+File 513_c17.txt ad to circuit list
+File 514_c17.txt ad to circuit list
+File 515_c17.txt ad to circuit list
+File 516_c17.txt ad to circuit list
+File 517_c17.txt ad to circuit list
+File 518_c17.txt ad to circuit list
+File 519_c17.txt ad to circuit list
+File 520_c17.txt ad to circuit list
+File 521_c17.txt ad to circuit list
+File 522_c17.txt ad to circuit list
+File 523_c17.txt ad to circuit list
+File 524_c17.txt ad to circuit list
+File 525_c17.txt ad to circuit list
+File 526_c17.txt ad to circuit list
+File 527_c17.txt ad to circuit list
+File 528_c17.txt ad to circuit list
+File 529_c17.txt ad to circuit list
+File 530_c17.txt ad to circuit list
+File 531_c17.txt ad to circuit list
+File 532_c17.txt ad to circuit list
+File 533_c17.txt ad to circuit list
+File 534_c17.txt ad to circuit list
+File 535_c17.txt ad to circuit list
+File 536_c17.txt ad to circuit list
+File 537_c17.txt ad to circuit list
+File 538_c17.txt ad to circuit list
+File 539_c17.txt ad to circuit list
+File 540_c17.txt ad to circuit list
+File 541_c17.txt ad to circuit list
+File 542_c17.txt ad to circuit list
+File 543_c17.txt ad to circuit list
+File 544_c17.txt ad to circuit list
+File 545_c17.txt ad to circuit list
+File 546_c17.txt ad to circuit list
+File 547_c17.txt ad to circuit list
+File 548_c17.txt ad to circuit list
+File 549_c17.txt ad to circuit list
+File 550_c17.txt ad to circuit list
+File 551_c17.txt ad to circuit list
+File 552_c17.txt ad to circuit list
+File 553_c17.txt ad to circuit list
+File 554_c17.txt ad to circuit list
+File 555_c17.txt ad to circuit list
+File 556_c17.txt ad to circuit list
+File 557_c17.txt ad to circuit list
+File 558_c17.txt ad to circuit list
+File 559_c17.txt ad to circuit list
+File 560_c17.txt ad to circuit list
+File 561_c17.txt ad to circuit list
+File 562_c17.txt ad to circuit list
+File 563_c17.txt ad to circuit list
+File 564_c17.txt ad to circuit list
+File 565_c17.txt ad to circuit list
+File 566_c17.txt ad to circuit list
+File 567_c17.txt ad to circuit list
+File 568_c17.txt ad to circuit list
+File 569_c17.txt ad to circuit list
+File 570_c17.txt ad to circuit list
+File 571_c17.txt ad to circuit list
+File 572_c17.txt ad to circuit list
+File 573_c17.txt ad to circuit list
+File 574_c17.txt ad to circuit list
+File 575_c17.txt ad to circuit list
+File 576_c17.txt ad to circuit list
+File 577_c17.txt ad to circuit list
+File 578_c17.txt ad to circuit list
+File 579_c17.txt ad to circuit list
+File 580_c17.txt ad to circuit list
+File 581_c17.txt ad to circuit list
+File 582_c17.txt ad to circuit list
+File 583_c17.txt ad to circuit list
+File 584_c17.txt ad to circuit list
+File 585_c17.txt ad to circuit list
+File 586_c17.txt ad to circuit list
+File 587_c17.txt ad to circuit list
+File 588_c17.txt ad to circuit list
+File 589_c17.txt ad to circuit list
+File 590_c17.txt ad to circuit list
+File 591_c17.txt ad to circuit list
+File 592_c17.txt ad to circuit list
+File 593_c17.txt ad to circuit list
+File 594_c17.txt ad to circuit list
+File 595_c17.txt ad to circuit list
+File 596_c17.txt ad to circuit list
+File 597_c17.txt ad to circuit list
+File 598_c17.txt ad to circuit list
+File 599_c17.txt ad to circuit list
+File 600_c17.txt ad to circuit list
+File 601_c17.txt ad to circuit list
+File 602_c17.txt ad to circuit list
+File 603_c17.txt ad to circuit list
+File 604_c17.txt ad to circuit list
+File 605_c17.txt ad to circuit list
+File 606_c17.txt ad to circuit list
+File 607_c17.txt ad to circuit list
+File 608_c17.txt ad to circuit list
+File 609_c17.txt ad to circuit list
+File 610_c17.txt ad to circuit list
+File 611_c17.txt ad to circuit list
+File 612_c17.txt ad to circuit list
+File 613_c17.txt ad to circuit list
+File 614_c17.txt ad to circuit list
+File 615_c17.txt ad to circuit list
+File 616_c17.txt ad to circuit list
+File 617_c17.txt ad to circuit list
+File 618_c17.txt ad to circuit list
+File 619_c17.txt ad to circuit list
+File 620_c17.txt ad to circuit list
+File 621_c17.txt ad to circuit list
+File 622_c17.txt ad to circuit list
+File 623_c17.txt ad to circuit list
+File 624_c17.txt ad to circuit list
+File 625_c17.txt ad to circuit list
+File 626_c17.txt ad to circuit list
+File 627_c17.txt ad to circuit list
+File 628_c17.txt ad to circuit list
+File 629_c17.txt ad to circuit list
+File 630_c17.txt ad to circuit list
+File 631_c17.txt ad to circuit list
+File 632_c17.txt ad to circuit list
+File 633_c17.txt ad to circuit list
+File 634_c17.txt ad to circuit list
+File 635_c17.txt ad to circuit list
+File 636_c17.txt ad to circuit list
+File 637_c17.txt ad to circuit list
+File 638_c17.txt ad to circuit list
+File 639_c17.txt ad to circuit list
+File 640_c17.txt ad to circuit list
+File 641_c17.txt ad to circuit list
+File 642_c17.txt ad to circuit list
+File 643_c17.txt ad to circuit list
+File 644_c17.txt ad to circuit list
+File 645_c17.txt ad to circuit list
+File 646_c17.txt ad to circuit list
+File 647_c17.txt ad to circuit list
+File 648_c17.txt ad to circuit list
+File 649_c17.txt ad to circuit list
+File 650_c17.txt ad to circuit list
+File 651_c17.txt ad to circuit list
+File 652_c17.txt ad to circuit list
+File 653_c17.txt ad to circuit list
+File 654_c17.txt ad to circuit list
+File 655_c17.txt ad to circuit list
+File 656_c17.txt ad to circuit list
+File 657_c17.txt ad to circuit list
+File 658_c17.txt ad to circuit list
+File 659_c17.txt ad to circuit list
+File 660_c17.txt ad to circuit list
+File 661_c17.txt ad to circuit list
+File 662_c17.txt ad to circuit list
+File 663_c17.txt ad to circuit list
+File 664_c17.txt ad to circuit list
+File 665_c17.txt ad to circuit list
+File 666_c17.txt ad to circuit list
+File 667_c17.txt ad to circuit list
+File 668_c17.txt ad to circuit list
+File 669_c17.txt ad to circuit list
+File 670_c17.txt ad to circuit list
+File 671_c17.txt ad to circuit list
+File 672_c17.txt ad to circuit list
+File 673_c17.txt ad to circuit list
+File 674_c17.txt ad to circuit list
+File 675_c17.txt ad to circuit list
+File 676_c17.txt ad to circuit list
+File 677_c17.txt ad to circuit list
+File 678_c17.txt ad to circuit list
+File 679_c17.txt ad to circuit list
+File 680_c17.txt ad to circuit list
+File 681_c17.txt ad to circuit list
+File 682_c17.txt ad to circuit list
+File 683_c17.txt ad to circuit list
+File 684_c17.txt ad to circuit list
+File 685_c17.txt ad to circuit list
+File 686_c17.txt ad to circuit list
+File 687_c17.txt ad to circuit list
+File 688_c17.txt ad to circuit list
+File 689_c17.txt ad to circuit list
+File 690_c17.txt ad to circuit list
+File 691_c17.txt ad to circuit list
+File 692_c17.txt ad to circuit list
+File 693_c17.txt ad to circuit list
+File 694_c17.txt ad to circuit list
+File 695_c17.txt ad to circuit list
+File 696_c17.txt ad to circuit list
+File 697_c17.txt ad to circuit list
+File 698_c17.txt ad to circuit list
+File 699_c17.txt ad to circuit list
+File 700_c17.txt ad to circuit list
+File 701_c17.txt ad to circuit list
+File 702_c17.txt ad to circuit list
+File 703_c17.txt ad to circuit list
+File 704_c17.txt ad to circuit list
+File 705_c17.txt ad to circuit list
+File 706_c17.txt ad to circuit list
+File 707_c17.txt ad to circuit list
+File 708_c17.txt ad to circuit list
+File 709_c17.txt ad to circuit list
+File 710_c17.txt ad to circuit list
+File 711_c17.txt ad to circuit list
+File 712_c17.txt ad to circuit list
+File 713_c17.txt ad to circuit list
+File 714_c17.txt ad to circuit list
+File 715_c17.txt ad to circuit list
+File 716_c17.txt ad to circuit list
+File 717_c17.txt ad to circuit list
+File 718_c17.txt ad to circuit list
+File 719_c17.txt ad to circuit list
+File 720_c17.txt ad to circuit list
+File 721_c17.txt ad to circuit list
+File 722_c17.txt ad to circuit list
+File 723_c17.txt ad to circuit list
+File 724_c17.txt ad to circuit list
+File 725_c17.txt ad to circuit list
+File 726_c17.txt ad to circuit list
+File 727_c17.txt ad to circuit list
+File 728_c17.txt ad to circuit list
+Output N22 from 0_c17.v add to list
+Output N23 from 0_c17.v add to list
+POWER 0_c17.v   1.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 0_c17.v add to list
+Output N23 from 0_c17.v add to list
+POWER 1_c17.v   1.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 1_c17.v add to list
+Output N23 from 1_c17.v add to list
+POWER 2_c17.v   2.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 2_c17.v add to list
+Output N23 from 2_c17.v add to list
+POWER 3_c17.v   2.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 3_c17.v add to list
+Output N23 from 3_c17.v add to list
+POWER 4_c17.v   2.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 4_c17.v add to list
+Output N23 from 4_c17.v add to list
+POWER 5_c17.v   2.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 5_c17.v add to list
+Output N23 from 5_c17.v add to list
+POWER 6_c17.v   2.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 6_c17.v add to list
+Output N23 from 6_c17.v add to list
+POWER 7_c17.v   2.72e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 7_c17.v add to list
+Output N23 from 7_c17.v add to list
+POWER 8_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 8_c17.v add to list
+Output N23 from 8_c17.v add to list
+POWER 9_c17.v   2.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 9_c17.v add to list
+Output N23 from 9_c17.v add to list
+POWER 10_c17.v   2.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 10_c17.v add to list
+Output N23 from 10_c17.v add to list
+POWER 11_c17.v   2.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 11_c17.v add to list
+Output N23 from 11_c17.v add to list
+POWER 12_c17.v   2.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 12_c17.v add to list
+Output N23 from 12_c17.v add to list
+POWER 13_c17.v   2.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 13_c17.v add to list
+Output N23 from 13_c17.v add to list
+POWER 14_c17.v   2.79e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 14_c17.v add to list
+Output N23 from 14_c17.v add to list
+POWER 15_c17.v   2.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 15_c17.v add to list
+Output N23 from 15_c17.v add to list
+POWER 16_c17.v   2.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 16_c17.v add to list
+Output N23 from 16_c17.v add to list
+POWER 17_c17.v   3.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 17_c17.v add to list
+Output N23 from 17_c17.v add to list
+POWER 18_c17.v   2.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 18_c17.v add to list
+Output N23 from 18_c17.v add to list
+POWER 19_c17.v   2.72e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 19_c17.v add to list
+Output N23 from 19_c17.v add to list
+POWER 20_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 20_c17.v add to list
+Output N23 from 20_c17.v add to list
+POWER 21_c17.v   2.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 21_c17.v add to list
+Output N23 from 21_c17.v add to list
+POWER 22_c17.v   2.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 22_c17.v add to list
+Output N23 from 22_c17.v add to list
+POWER 23_c17.v   3.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 23_c17.v add to list
+Output N23 from 23_c17.v add to list
+POWER 24_c17.v   3.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 24_c17.v add to list
+Output N23 from 24_c17.v add to list
+POWER 25_c17.v   3.46e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 25_c17.v add to list
+Output N23 from 25_c17.v add to list
+POWER 26_c17.v   3.71e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 26_c17.v add to list
+Output N23 from 26_c17.v add to list
+POWER 27_c17.v   2.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 27_c17.v add to list
+Output N23 from 27_c17.v add to list
+POWER 28_c17.v   2.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 28_c17.v add to list
+Output N23 from 28_c17.v add to list
+POWER 29_c17.v   2.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 29_c17.v add to list
+Output N23 from 29_c17.v add to list
+POWER 30_c17.v   2.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 30_c17.v add to list
+Output N23 from 30_c17.v add to list
+POWER 31_c17.v   2.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 31_c17.v add to list
+Output N23 from 31_c17.v add to list
+POWER 32_c17.v   2.96e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 32_c17.v add to list
+Output N23 from 32_c17.v add to list
+POWER 33_c17.v   3.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 33_c17.v add to list
+Output N23 from 33_c17.v add to list
+POWER 34_c17.v   3.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 34_c17.v add to list
+Output N23 from 34_c17.v add to list
+POWER 35_c17.v   3.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 35_c17.v add to list
+Output N23 from 35_c17.v add to list
+POWER 36_c17.v   2.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 36_c17.v add to list
+Output N23 from 36_c17.v add to list
+POWER 37_c17.v   2.71e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 37_c17.v add to list
+Output N23 from 37_c17.v add to list
+POWER 38_c17.v   2.96e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 38_c17.v add to list
+Output N23 from 38_c17.v add to list
+POWER 39_c17.v   2.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 39_c17.v add to list
+Output N23 from 39_c17.v add to list
+POWER 40_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 40_c17.v add to list
+Output N23 from 40_c17.v add to list
+POWER 41_c17.v   3.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 41_c17.v add to list
+Output N23 from 41_c17.v add to list
+POWER 42_c17.v   3.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 42_c17.v add to list
+Output N23 from 42_c17.v add to list
+POWER 43_c17.v   3.44e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 43_c17.v add to list
+Output N23 from 43_c17.v add to list
+POWER 44_c17.v   3.69e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 44_c17.v add to list
+Output N23 from 44_c17.v add to list
+POWER 45_c17.v   3.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 45_c17.v add to list
+Output N23 from 45_c17.v add to list
+POWER 46_c17.v   3.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 46_c17.v add to list
+Output N23 from 46_c17.v add to list
+POWER 47_c17.v   3.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 47_c17.v add to list
+Output N23 from 47_c17.v add to list
+POWER 48_c17.v   3.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 48_c17.v add to list
+Output N23 from 48_c17.v add to list
+POWER 49_c17.v   3.44e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 49_c17.v add to list
+Output N23 from 49_c17.v add to list
+POWER 50_c17.v   3.69e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 50_c17.v add to list
+Output N23 from 50_c17.v add to list
+POWER 51_c17.v   3.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 51_c17.v add to list
+Output N23 from 51_c17.v add to list
+POWER 52_c17.v   3.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 52_c17.v add to list
+Output N23 from 52_c17.v add to list
+POWER 53_c17.v   4.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 53_c17.v add to list
+Output N23 from 53_c17.v add to list
+POWER 54_c17.v   3.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 54_c17.v add to list
+Output N23 from 54_c17.v add to list
+POWER 55_c17.v   3.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 55_c17.v add to list
+Output N23 from 55_c17.v add to list
+POWER 56_c17.v   3.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 56_c17.v add to list
+Output N23 from 56_c17.v add to list
+POWER 57_c17.v   3.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 57_c17.v add to list
+Output N23 from 57_c17.v add to list
+POWER 58_c17.v   3.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 58_c17.v add to list
+Output N23 from 58_c17.v add to list
+POWER 59_c17.v   3.75e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 59_c17.v add to list
+Output N23 from 59_c17.v add to list
+POWER 60_c17.v   3.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 60_c17.v add to list
+Output N23 from 60_c17.v add to list
+POWER 61_c17.v   3.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 61_c17.v add to list
+Output N23 from 61_c17.v add to list
+POWER 62_c17.v   4.21e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 62_c17.v add to list
+Output N23 from 62_c17.v add to list
+POWER 63_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 63_c17.v add to list
+Output N23 from 63_c17.v add to list
+POWER 64_c17.v   3.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 64_c17.v add to list
+Output N23 from 64_c17.v add to list
+POWER 65_c17.v   3.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 65_c17.v add to list
+Output N23 from 65_c17.v add to list
+POWER 66_c17.v   3.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 66_c17.v add to list
+Output N23 from 66_c17.v add to list
+POWER 67_c17.v   3.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 67_c17.v add to list
+Output N23 from 67_c17.v add to list
+POWER 68_c17.v   4.02e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 68_c17.v add to list
+Output N23 from 68_c17.v add to list
+POWER 69_c17.v   4.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 69_c17.v add to list
+Output N23 from 69_c17.v add to list
+POWER 70_c17.v   4.22e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 70_c17.v add to list
+Output N23 from 70_c17.v add to list
+POWER 71_c17.v   4.48e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 71_c17.v add to list
+Output N23 from 71_c17.v add to list
+POWER 72_c17.v   3.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 72_c17.v add to list
+Output N23 from 72_c17.v add to list
+POWER 73_c17.v   3.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 73_c17.v add to list
+Output N23 from 73_c17.v add to list
+POWER 74_c17.v   4.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 74_c17.v add to list
+Output N23 from 74_c17.v add to list
+POWER 75_c17.v   4.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 75_c17.v add to list
+Output N23 from 75_c17.v add to list
+POWER 76_c17.v   4.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 76_c17.v add to list
+Output N23 from 76_c17.v add to list
+POWER 77_c17.v   4.48e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 77_c17.v add to list
+Output N23 from 77_c17.v add to list
+POWER 78_c17.v   4.58e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 78_c17.v add to list
+Output N23 from 78_c17.v add to list
+POWER 79_c17.v   4.69e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 79_c17.v add to list
+Output N23 from 79_c17.v add to list
+POWER 80_c17.v   4.94e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 80_c17.v add to list
+Output N23 from 80_c17.v add to list
+POWER 81_c17.v   1.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 81_c17.v add to list
+Output N23 from 81_c17.v add to list
+POWER 82_c17.v   2.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 82_c17.v add to list
+Output N23 from 82_c17.v add to list
+POWER 83_c17.v   2.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 83_c17.v add to list
+Output N23 from 83_c17.v add to list
+POWER 84_c17.v   2.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 84_c17.v add to list
+Output N23 from 84_c17.v add to list
+POWER 85_c17.v   2.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 85_c17.v add to list
+Output N23 from 85_c17.v add to list
+POWER 86_c17.v   2.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 86_c17.v add to list
+Output N23 from 86_c17.v add to list
+POWER 87_c17.v   2.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 87_c17.v add to list
+Output N23 from 87_c17.v add to list
+POWER 88_c17.v   2.86e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 88_c17.v add to list
+Output N23 from 88_c17.v add to list
+POWER 89_c17.v   3.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 89_c17.v add to list
+Output N23 from 89_c17.v add to list
+POWER 90_c17.v   2.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 90_c17.v add to list
+Output N23 from 90_c17.v add to list
+POWER 91_c17.v   2.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 91_c17.v add to list
+Output N23 from 91_c17.v add to list
+POWER 92_c17.v   2.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 92_c17.v add to list
+Output N23 from 92_c17.v add to list
+POWER 93_c17.v   2.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 93_c17.v add to list
+Output N23 from 93_c17.v add to list
+POWER 94_c17.v   2.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 94_c17.v add to list
+Output N23 from 94_c17.v add to list
+POWER 95_c17.v   2.92e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 95_c17.v add to list
+Output N23 from 95_c17.v add to list
+POWER 96_c17.v   3.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 96_c17.v add to list
+Output N23 from 96_c17.v add to list
+POWER 97_c17.v   3.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 97_c17.v add to list
+Output N23 from 97_c17.v add to list
+POWER 98_c17.v   3.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 98_c17.v add to list
+Output N23 from 98_c17.v add to list
+POWER 99_c17.v   2.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 99_c17.v add to list
+Output N23 from 99_c17.v add to list
+POWER 100_c17.v   2.86e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 100_c17.v add to list
+Output N23 from 100_c17.v add to list
+POWER 101_c17.v   3.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 101_c17.v add to list
+Output N23 from 101_c17.v add to list
+POWER 102_c17.v   3.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 102_c17.v add to list
+Output N23 from 102_c17.v add to list
+POWER 103_c17.v   3.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 103_c17.v add to list
+Output N23 from 103_c17.v add to list
+POWER 104_c17.v   3.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 104_c17.v add to list
+Output N23 from 104_c17.v add to list
+POWER 105_c17.v   3.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 105_c17.v add to list
+Output N23 from 105_c17.v add to list
+POWER 106_c17.v   3.6e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 106_c17.v add to list
+Output N23 from 106_c17.v add to list
+POWER 107_c17.v   3.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 107_c17.v add to list
+Output N23 from 107_c17.v add to list
+POWER 108_c17.v   2.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 108_c17.v add to list
+Output N23 from 108_c17.v add to list
+POWER 109_c17.v   2.57e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 109_c17.v add to list
+Output N23 from 109_c17.v add to list
+POWER 110_c17.v   2.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 110_c17.v add to list
+Output N23 from 110_c17.v add to list
+POWER 111_c17.v   2.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 111_c17.v add to list
+Output N23 from 111_c17.v add to list
+POWER 112_c17.v   2.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 112_c17.v add to list
+Output N23 from 112_c17.v add to list
+POWER 113_c17.v   3.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 113_c17.v add to list
+Output N23 from 113_c17.v add to list
+POWER 114_c17.v   3.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 114_c17.v add to list
+Output N23 from 114_c17.v add to list
+POWER 115_c17.v   3.3e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 115_c17.v add to list
+Output N23 from 115_c17.v add to list
+POWER 116_c17.v   3.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 116_c17.v add to list
+Output N23 from 116_c17.v add to list
+POWER 117_c17.v   2.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 117_c17.v add to list
+Output N23 from 117_c17.v add to list
+POWER 118_c17.v   2.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 118_c17.v add to list
+Output N23 from 118_c17.v add to list
+POWER 119_c17.v   3.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 119_c17.v add to list
+Output N23 from 119_c17.v add to list
+POWER 120_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 120_c17.v add to list
+Output N23 from 120_c17.v add to list
+POWER 121_c17.v   3.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 121_c17.v add to list
+Output N23 from 121_c17.v add to list
+POWER 122_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 122_c17.v add to list
+Output N23 from 122_c17.v add to list
+POWER 123_c17.v   3.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 123_c17.v add to list
+Output N23 from 123_c17.v add to list
+POWER 124_c17.v   3.57e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 124_c17.v add to list
+Output N23 from 124_c17.v add to list
+POWER 125_c17.v   3.83e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 125_c17.v add to list
+Output N23 from 125_c17.v add to list
+POWER 126_c17.v   3.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 126_c17.v add to list
+Output N23 from 126_c17.v add to list
+POWER 127_c17.v   3.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 127_c17.v add to list
+Output N23 from 127_c17.v add to list
+POWER 128_c17.v   3.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 128_c17.v add to list
+Output N23 from 128_c17.v add to list
+POWER 129_c17.v   3.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 129_c17.v add to list
+Output N23 from 129_c17.v add to list
+POWER 130_c17.v   3.58e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 130_c17.v add to list
+Output N23 from 130_c17.v add to list
+POWER 131_c17.v   3.83e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 131_c17.v add to list
+Output N23 from 131_c17.v add to list
+POWER 132_c17.v   3.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 132_c17.v add to list
+Output N23 from 132_c17.v add to list
+POWER 133_c17.v   4.04e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 133_c17.v add to list
+Output N23 from 133_c17.v add to list
+POWER 134_c17.v   4.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 134_c17.v add to list
+Output N23 from 134_c17.v add to list
+POWER 135_c17.v   3.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 135_c17.v add to list
+Output N23 from 135_c17.v add to list
+POWER 136_c17.v   3.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 136_c17.v add to list
+Output N23 from 136_c17.v add to list
+POWER 137_c17.v   3.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 137_c17.v add to list
+Output N23 from 137_c17.v add to list
+POWER 138_c17.v   3.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 138_c17.v add to list
+Output N23 from 138_c17.v add to list
+POWER 139_c17.v   3.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 139_c17.v add to list
+Output N23 from 139_c17.v add to list
+POWER 140_c17.v   3.89e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 140_c17.v add to list
+Output N23 from 140_c17.v add to list
+POWER 141_c17.v   3.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 141_c17.v add to list
+Output N23 from 141_c17.v add to list
+POWER 142_c17.v   4.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 142_c17.v add to list
+Output N23 from 142_c17.v add to list
+POWER 143_c17.v   4.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 143_c17.v add to list
+Output N23 from 143_c17.v add to list
+POWER 144_c17.v   3.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 144_c17.v add to list
+Output N23 from 144_c17.v add to list
+POWER 145_c17.v   3.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 145_c17.v add to list
+Output N23 from 145_c17.v add to list
+POWER 146_c17.v   3.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 146_c17.v add to list
+Output N23 from 146_c17.v add to list
+POWER 147_c17.v   3.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 147_c17.v add to list
+Output N23 from 147_c17.v add to list
+POWER 148_c17.v   3.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 148_c17.v add to list
+Output N23 from 148_c17.v add to list
+POWER 149_c17.v   4.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 149_c17.v add to list
+Output N23 from 149_c17.v add to list
+POWER 150_c17.v   4.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 150_c17.v add to list
+Output N23 from 150_c17.v add to list
+POWER 151_c17.v   4.36e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 151_c17.v add to list
+Output N23 from 151_c17.v add to list
+POWER 152_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 152_c17.v add to list
+Output N23 from 152_c17.v add to list
+POWER 153_c17.v   3.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 153_c17.v add to list
+Output N23 from 153_c17.v add to list
+POWER 154_c17.v   4.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 154_c17.v add to list
+Output N23 from 154_c17.v add to list
+POWER 155_c17.v   4.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 155_c17.v add to list
+Output N23 from 155_c17.v add to list
+POWER 156_c17.v   4.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 156_c17.v add to list
+Output N23 from 156_c17.v add to list
+POWER 157_c17.v   4.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 157_c17.v add to list
+Output N23 from 157_c17.v add to list
+POWER 158_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 158_c17.v add to list
+Output N23 from 158_c17.v add to list
+POWER 159_c17.v   4.72e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 159_c17.v add to list
+Output N23 from 159_c17.v add to list
+POWER 160_c17.v   4.83e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 160_c17.v add to list
+Output N23 from 160_c17.v add to list
+POWER 161_c17.v   5.08e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 161_c17.v add to list
+Output N23 from 161_c17.v add to list
+POWER 162_c17.v   2.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 162_c17.v add to list
+Output N23 from 162_c17.v add to list
+POWER 163_c17.v   2.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 163_c17.v add to list
+Output N23 from 163_c17.v add to list
+POWER 164_c17.v   2.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 164_c17.v add to list
+Output N23 from 164_c17.v add to list
+POWER 165_c17.v   2.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 165_c17.v add to list
+Output N23 from 165_c17.v add to list
+POWER 166_c17.v   2.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 166_c17.v add to list
+Output N23 from 166_c17.v add to list
+POWER 167_c17.v   2.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 167_c17.v add to list
+Output N23 from 167_c17.v add to list
+POWER 168_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 168_c17.v add to list
+Output N23 from 168_c17.v add to list
+POWER 169_c17.v   3.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 169_c17.v add to list
+Output N23 from 169_c17.v add to list
+POWER 170_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 170_c17.v add to list
+Output N23 from 170_c17.v add to list
+POWER 171_c17.v   2.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 171_c17.v add to list
+Output N23 from 171_c17.v add to list
+POWER 172_c17.v   2.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 172_c17.v add to list
+Output N23 from 172_c17.v add to list
+POWER 173_c17.v   2.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 173_c17.v add to list
+Output N23 from 173_c17.v add to list
+POWER 174_c17.v   2.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 174_c17.v add to list
+Output N23 from 174_c17.v add to list
+POWER 175_c17.v   2.92e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 175_c17.v add to list
+Output N23 from 175_c17.v add to list
+POWER 176_c17.v   3.18e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 176_c17.v add to list
+Output N23 from 176_c17.v add to list
+POWER 177_c17.v   3.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 177_c17.v add to list
+Output N23 from 177_c17.v add to list
+POWER 178_c17.v   3.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 178_c17.v add to list
+Output N23 from 178_c17.v add to list
+POWER 179_c17.v   3.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 179_c17.v add to list
+Output N23 from 179_c17.v add to list
+POWER 180_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 180_c17.v add to list
+Output N23 from 180_c17.v add to list
+POWER 181_c17.v   3.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 181_c17.v add to list
+Output N23 from 181_c17.v add to list
+POWER 182_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 182_c17.v add to list
+Output N23 from 182_c17.v add to list
+POWER 183_c17.v   3.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 183_c17.v add to list
+Output N23 from 183_c17.v add to list
+POWER 184_c17.v   3.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 184_c17.v add to list
+Output N23 from 184_c17.v add to list
+POWER 185_c17.v   3.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 185_c17.v add to list
+Output N23 from 185_c17.v add to list
+POWER 186_c17.v   3.74e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 186_c17.v add to list
+Output N23 from 186_c17.v add to list
+POWER 187_c17.v   3.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 187_c17.v add to list
+Output N23 from 187_c17.v add to list
+POWER 188_c17.v   4.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 188_c17.v add to list
+Output N23 from 188_c17.v add to list
+POWER 189_c17.v   2.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 189_c17.v add to list
+Output N23 from 189_c17.v add to list
+POWER 190_c17.v   2.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 190_c17.v add to list
+Output N23 from 190_c17.v add to list
+POWER 191_c17.v   3.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 191_c17.v add to list
+Output N23 from 191_c17.v add to list
+POWER 192_c17.v   2.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 192_c17.v add to list
+Output N23 from 192_c17.v add to list
+POWER 193_c17.v   3.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 193_c17.v add to list
+Output N23 from 193_c17.v add to list
+POWER 194_c17.v   3.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 194_c17.v add to list
+Output N23 from 194_c17.v add to list
+POWER 195_c17.v   3.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 195_c17.v add to list
+Output N23 from 195_c17.v add to list
+POWER 196_c17.v   3.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 196_c17.v add to list
+Output N23 from 196_c17.v add to list
+POWER 197_c17.v   3.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 197_c17.v add to list
+Output N23 from 197_c17.v add to list
+POWER 198_c17.v   2.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 198_c17.v add to list
+Output N23 from 198_c17.v add to list
+POWER 199_c17.v   3.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 199_c17.v add to list
+Output N23 from 199_c17.v add to list
+POWER 200_c17.v   3.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 200_c17.v add to list
+Output N23 from 200_c17.v add to list
+POWER 201_c17.v   3.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 201_c17.v add to list
+Output N23 from 201_c17.v add to list
+POWER 202_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 202_c17.v add to list
+Output N23 from 202_c17.v add to list
+POWER 203_c17.v   3.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 203_c17.v add to list
+Output N23 from 203_c17.v add to list
+POWER 204_c17.v   3.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 204_c17.v add to list
+Output N23 from 204_c17.v add to list
+POWER 205_c17.v   3.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 205_c17.v add to list
+Output N23 from 205_c17.v add to list
+POWER 206_c17.v   4.08e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 206_c17.v add to list
+Output N23 from 206_c17.v add to list
+POWER 207_c17.v   3.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 207_c17.v add to list
+Output N23 from 207_c17.v add to list
+POWER 208_c17.v   3.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 208_c17.v add to list
+Output N23 from 208_c17.v add to list
+POWER 209_c17.v   3.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 209_c17.v add to list
+Output N23 from 209_c17.v add to list
+POWER 210_c17.v   3.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 210_c17.v add to list
+Output N23 from 210_c17.v add to list
+POWER 211_c17.v   3.83e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 211_c17.v add to list
+Output N23 from 211_c17.v add to list
+POWER 212_c17.v   4.08e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 212_c17.v add to list
+Output N23 from 212_c17.v add to list
+POWER 213_c17.v   4.18e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 213_c17.v add to list
+Output N23 from 213_c17.v add to list
+POWER 214_c17.v   4.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 214_c17.v add to list
+Output N23 from 214_c17.v add to list
+POWER 215_c17.v   4.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 215_c17.v add to list
+Output N23 from 215_c17.v add to list
+POWER 216_c17.v   3.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 216_c17.v add to list
+Output N23 from 216_c17.v add to list
+POWER 217_c17.v   3.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 217_c17.v add to list
+Output N23 from 217_c17.v add to list
+POWER 218_c17.v   3.89e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 218_c17.v add to list
+Output N23 from 218_c17.v add to list
+POWER 219_c17.v   3.74e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 219_c17.v add to list
+Output N23 from 219_c17.v add to list
+POWER 220_c17.v   3.88e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 220_c17.v add to list
+Output N23 from 220_c17.v add to list
+POWER 221_c17.v   4.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 221_c17.v add to list
+Output N23 from 221_c17.v add to list
+POWER 222_c17.v   4.21e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 222_c17.v add to list
+Output N23 from 222_c17.v add to list
+POWER 223_c17.v   4.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 223_c17.v add to list
+Output N23 from 223_c17.v add to list
+POWER 224_c17.v   4.6e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 224_c17.v add to list
+Output N23 from 224_c17.v add to list
+POWER 225_c17.v   3.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 225_c17.v add to list
+Output N23 from 225_c17.v add to list
+POWER 226_c17.v   3.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 226_c17.v add to list
+Output N23 from 226_c17.v add to list
+POWER 227_c17.v   4.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 227_c17.v add to list
+Output N23 from 227_c17.v add to list
+POWER 228_c17.v   4.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 228_c17.v add to list
+Output N23 from 228_c17.v add to list
+POWER 229_c17.v   4.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 229_c17.v add to list
+Output N23 from 229_c17.v add to list
+POWER 230_c17.v   4.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 230_c17.v add to list
+Output N23 from 230_c17.v add to list
+POWER 231_c17.v   4.48e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 231_c17.v add to list
+Output N23 from 231_c17.v add to list
+POWER 232_c17.v   4.61e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 232_c17.v add to list
+Output N23 from 232_c17.v add to list
+POWER 233_c17.v   4.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 233_c17.v add to list
+Output N23 from 233_c17.v add to list
+POWER 234_c17.v   4.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 234_c17.v add to list
+Output N23 from 234_c17.v add to list
+POWER 235_c17.v   4.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 235_c17.v add to list
+Output N23 from 235_c17.v add to list
+POWER 236_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 236_c17.v add to list
+Output N23 from 236_c17.v add to list
+POWER 237_c17.v   4.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 237_c17.v add to list
+Output N23 from 237_c17.v add to list
+POWER 238_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 238_c17.v add to list
+Output N23 from 238_c17.v add to list
+POWER 239_c17.v   4.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 239_c17.v add to list
+Output N23 from 239_c17.v add to list
+POWER 240_c17.v   4.97e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 240_c17.v add to list
+Output N23 from 240_c17.v add to list
+POWER 241_c17.v   5.08e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 241_c17.v add to list
+Output N23 from 241_c17.v add to list
+POWER 242_c17.v   5.33e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 242_c17.v add to list
+Output N23 from 242_c17.v add to list
+POWER 243_c17.v   2.27e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 243_c17.v add to list
+Output N23 from 243_c17.v add to list
+POWER 244_c17.v   2.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 244_c17.v add to list
+Output N23 from 244_c17.v add to list
+POWER 245_c17.v   2.66e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 245_c17.v add to list
+Output N23 from 245_c17.v add to list
+POWER 246_c17.v   2.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 246_c17.v add to list
+Output N23 from 246_c17.v add to list
+POWER 247_c17.v   2.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 247_c17.v add to list
+Output N23 from 247_c17.v add to list
+POWER 248_c17.v   2.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 248_c17.v add to list
+Output N23 from 248_c17.v add to list
+POWER 249_c17.v   3e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 249_c17.v add to list
+Output N23 from 249_c17.v add to list
+POWER 250_c17.v   3.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 250_c17.v add to list
+Output N23 from 250_c17.v add to list
+POWER 251_c17.v   3.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 251_c17.v add to list
+Output N23 from 251_c17.v add to list
+POWER 252_c17.v   2.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 252_c17.v add to list
+Output N23 from 252_c17.v add to list
+POWER 253_c17.v   2.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 253_c17.v add to list
+Output N23 from 253_c17.v add to list
+POWER 254_c17.v   2.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 254_c17.v add to list
+Output N23 from 254_c17.v add to list
+POWER 255_c17.v   2.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 255_c17.v add to list
+Output N23 from 255_c17.v add to list
+POWER 256_c17.v   2.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 256_c17.v add to list
+Output N23 from 256_c17.v add to list
+POWER 257_c17.v   3.2e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 257_c17.v add to list
+Output N23 from 257_c17.v add to list
+POWER 258_c17.v   3.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 258_c17.v add to list
+Output N23 from 258_c17.v add to list
+POWER 259_c17.v   3.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 259_c17.v add to list
+Output N23 from 259_c17.v add to list
+POWER 260_c17.v   3.66e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 260_c17.v add to list
+Output N23 from 260_c17.v add to list
+POWER 261_c17.v   3.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 261_c17.v add to list
+Output N23 from 261_c17.v add to list
+POWER 262_c17.v   3.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 262_c17.v add to list
+Output N23 from 262_c17.v add to list
+POWER 263_c17.v   3.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 263_c17.v add to list
+Output N23 from 263_c17.v add to list
+POWER 264_c17.v   3.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 264_c17.v add to list
+Output N23 from 264_c17.v add to list
+POWER 265_c17.v   3.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 265_c17.v add to list
+Output N23 from 265_c17.v add to list
+POWER 266_c17.v   3.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 266_c17.v add to list
+Output N23 from 266_c17.v add to list
+POWER 267_c17.v   3.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 267_c17.v add to list
+Output N23 from 267_c17.v add to list
+POWER 268_c17.v   3.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 268_c17.v add to list
+Output N23 from 268_c17.v add to list
+POWER 269_c17.v   4.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 269_c17.v add to list
+Output N23 from 269_c17.v add to list
+POWER 270_c17.v   2.72e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 270_c17.v add to list
+Output N23 from 270_c17.v add to list
+POWER 271_c17.v   2.86e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 271_c17.v add to list
+Output N23 from 271_c17.v add to list
+POWER 272_c17.v   3.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 272_c17.v add to list
+Output N23 from 272_c17.v add to list
+POWER 273_c17.v   2.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 273_c17.v add to list
+Output N23 from 273_c17.v add to list
+POWER 274_c17.v   3.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 274_c17.v add to list
+Output N23 from 274_c17.v add to list
+POWER 275_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 275_c17.v add to list
+Output N23 from 275_c17.v add to list
+POWER 276_c17.v   3.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 276_c17.v add to list
+Output N23 from 276_c17.v add to list
+POWER 277_c17.v   3.58e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 277_c17.v add to list
+Output N23 from 277_c17.v add to list
+POWER 278_c17.v   3.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 278_c17.v add to list
+Output N23 from 278_c17.v add to list
+POWER 279_c17.v   2.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 279_c17.v add to list
+Output N23 from 279_c17.v add to list
+POWER 280_c17.v   3.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 280_c17.v add to list
+Output N23 from 280_c17.v add to list
+POWER 281_c17.v   3.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 281_c17.v add to list
+Output N23 from 281_c17.v add to list
+POWER 282_c17.v   3.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 282_c17.v add to list
+Output N23 from 282_c17.v add to list
+POWER 283_c17.v   3.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 283_c17.v add to list
+Output N23 from 283_c17.v add to list
+POWER 284_c17.v   3.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 284_c17.v add to list
+Output N23 from 284_c17.v add to list
+POWER 285_c17.v   3.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 285_c17.v add to list
+Output N23 from 285_c17.v add to list
+POWER 286_c17.v   3.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 286_c17.v add to list
+Output N23 from 286_c17.v add to list
+POWER 287_c17.v   4.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 287_c17.v add to list
+Output N23 from 287_c17.v add to list
+POWER 288_c17.v   3.46e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 288_c17.v add to list
+Output N23 from 288_c17.v add to list
+POWER 289_c17.v   3.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 289_c17.v add to list
+Output N23 from 289_c17.v add to list
+POWER 290_c17.v   3.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 290_c17.v add to list
+Output N23 from 290_c17.v add to list
+POWER 291_c17.v   3.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 291_c17.v add to list
+Output N23 from 291_c17.v add to list
+POWER 292_c17.v   3.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 292_c17.v add to list
+Output N23 from 292_c17.v add to list
+POWER 293_c17.v   4.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 293_c17.v add to list
+Output N23 from 293_c17.v add to list
+POWER 294_c17.v   4.21e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 294_c17.v add to list
+Output N23 from 294_c17.v add to list
+POWER 295_c17.v   4.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 295_c17.v add to list
+Output N23 from 295_c17.v add to list
+POWER 296_c17.v   4.57e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 296_c17.v add to list
+Output N23 from 296_c17.v add to list
+POWER 297_c17.v   3.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 297_c17.v add to list
+Output N23 from 297_c17.v add to list
+POWER 298_c17.v   3.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 298_c17.v add to list
+Output N23 from 298_c17.v add to list
+POWER 299_c17.v   3.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 299_c17.v add to list
+Output N23 from 299_c17.v add to list
+POWER 300_c17.v   3.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 300_c17.v add to list
+Output N23 from 300_c17.v add to list
+POWER 301_c17.v   3.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 301_c17.v add to list
+Output N23 from 301_c17.v add to list
+POWER 302_c17.v   4.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 302_c17.v add to list
+Output N23 from 302_c17.v add to list
+POWER 303_c17.v   4.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 303_c17.v add to list
+Output N23 from 303_c17.v add to list
+POWER 304_c17.v   4.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 304_c17.v add to list
+Output N23 from 304_c17.v add to list
+POWER 305_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 305_c17.v add to list
+Output N23 from 305_c17.v add to list
+POWER 306_c17.v   3.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 306_c17.v add to list
+Output N23 from 306_c17.v add to list
+POWER 307_c17.v   3.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 307_c17.v add to list
+Output N23 from 307_c17.v add to list
+POWER 308_c17.v   4.21e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 308_c17.v add to list
+Output N23 from 308_c17.v add to list
+POWER 309_c17.v   4.05e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 309_c17.v add to list
+Output N23 from 309_c17.v add to list
+POWER 310_c17.v   4.18e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 310_c17.v add to list
+Output N23 from 310_c17.v add to list
+POWER 311_c17.v   4.44e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 311_c17.v add to list
+Output N23 from 311_c17.v add to list
+POWER 312_c17.v   4.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 312_c17.v add to list
+Output N23 from 312_c17.v add to list
+POWER 313_c17.v   4.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 313_c17.v add to list
+Output N23 from 313_c17.v add to list
+POWER 314_c17.v   4.89e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 314_c17.v add to list
+Output N23 from 314_c17.v add to list
+POWER 315_c17.v   4.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 315_c17.v add to list
+Output N23 from 315_c17.v add to list
+POWER 316_c17.v   4.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 316_c17.v add to list
+Output N23 from 316_c17.v add to list
+POWER 317_c17.v   4.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 317_c17.v add to list
+Output N23 from 317_c17.v add to list
+POWER 318_c17.v   4.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 318_c17.v add to list
+Output N23 from 318_c17.v add to list
+POWER 319_c17.v   4.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 319_c17.v add to list
+Output N23 from 319_c17.v add to list
+POWER 320_c17.v   4.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 320_c17.v add to list
+Output N23 from 320_c17.v add to list
+POWER 321_c17.v   5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 321_c17.v add to list
+Output N23 from 321_c17.v add to list
+POWER 322_c17.v   5.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 322_c17.v add to list
+Output N23 from 322_c17.v add to list
+POWER 323_c17.v   5.36e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 323_c17.v add to list
+Output N23 from 323_c17.v add to list
+POWER 324_c17.v   2.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 324_c17.v add to list
+Output N23 from 324_c17.v add to list
+POWER 325_c17.v   2.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 325_c17.v add to list
+Output N23 from 325_c17.v add to list
+POWER 326_c17.v   2.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 326_c17.v add to list
+Output N23 from 326_c17.v add to list
+POWER 327_c17.v   2.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 327_c17.v add to list
+Output N23 from 327_c17.v add to list
+POWER 328_c17.v   2.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 328_c17.v add to list
+Output N23 from 328_c17.v add to list
+POWER 329_c17.v   3.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 329_c17.v add to list
+Output N23 from 329_c17.v add to list
+POWER 330_c17.v   3.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 330_c17.v add to list
+Output N23 from 330_c17.v add to list
+POWER 331_c17.v   3.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 331_c17.v add to list
+Output N23 from 331_c17.v add to list
+POWER 332_c17.v   3.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 332_c17.v add to list
+Output N23 from 332_c17.v add to list
+POWER 333_c17.v   2.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 333_c17.v add to list
+Output N23 from 333_c17.v add to list
+POWER 334_c17.v   2.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 334_c17.v add to list
+Output N23 from 334_c17.v add to list
+POWER 335_c17.v   3.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 335_c17.v add to list
+Output N23 from 335_c17.v add to list
+POWER 336_c17.v   2.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 336_c17.v add to list
+Output N23 from 336_c17.v add to list
+POWER 337_c17.v   3.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 337_c17.v add to list
+Output N23 from 337_c17.v add to list
+POWER 338_c17.v   3.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 338_c17.v add to list
+Output N23 from 338_c17.v add to list
+POWER 339_c17.v   3.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 339_c17.v add to list
+Output N23 from 339_c17.v add to list
+POWER 340_c17.v   3.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 340_c17.v add to list
+Output N23 from 340_c17.v add to list
+POWER 341_c17.v   3.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 341_c17.v add to list
+Output N23 from 341_c17.v add to list
+POWER 342_c17.v   3.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 342_c17.v add to list
+Output N23 from 342_c17.v add to list
+POWER 343_c17.v   3.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 343_c17.v add to list
+Output N23 from 343_c17.v add to list
+POWER 344_c17.v   3.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 344_c17.v add to list
+Output N23 from 344_c17.v add to list
+POWER 345_c17.v   3.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 345_c17.v add to list
+Output N23 from 345_c17.v add to list
+POWER 346_c17.v   3.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 346_c17.v add to list
+Output N23 from 346_c17.v add to list
+POWER 347_c17.v   3.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 347_c17.v add to list
+Output N23 from 347_c17.v add to list
+POWER 348_c17.v   3.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 348_c17.v add to list
+Output N23 from 348_c17.v add to list
+POWER 349_c17.v   4.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 349_c17.v add to list
+Output N23 from 349_c17.v add to list
+POWER 350_c17.v   4.27e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 350_c17.v add to list
+Output N23 from 350_c17.v add to list
+POWER 351_c17.v   2.86e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 351_c17.v add to list
+Output N23 from 351_c17.v add to list
+POWER 352_c17.v   3e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 352_c17.v add to list
+Output N23 from 352_c17.v add to list
+POWER 353_c17.v   3.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 353_c17.v add to list
+Output N23 from 353_c17.v add to list
+POWER 354_c17.v   3.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 354_c17.v add to list
+Output N23 from 354_c17.v add to list
+POWER 355_c17.v   3.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 355_c17.v add to list
+Output N23 from 355_c17.v add to list
+POWER 356_c17.v   3.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 356_c17.v add to list
+Output N23 from 356_c17.v add to list
+POWER 357_c17.v   3.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 357_c17.v add to list
+Output N23 from 357_c17.v add to list
+POWER 358_c17.v   3.72e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 358_c17.v add to list
+Output N23 from 358_c17.v add to list
+POWER 359_c17.v   3.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 359_c17.v add to list
+Output N23 from 359_c17.v add to list
+POWER 360_c17.v   3.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 360_c17.v add to list
+Output N23 from 360_c17.v add to list
+POWER 361_c17.v   3.27e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 361_c17.v add to list
+Output N23 from 361_c17.v add to list
+POWER 362_c17.v   3.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 362_c17.v add to list
+Output N23 from 362_c17.v add to list
+POWER 363_c17.v   3.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 363_c17.v add to list
+Output N23 from 363_c17.v add to list
+POWER 364_c17.v   3.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 364_c17.v add to list
+Output N23 from 364_c17.v add to list
+POWER 365_c17.v   3.79e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 365_c17.v add to list
+Output N23 from 365_c17.v add to list
+POWER 366_c17.v   3.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 366_c17.v add to list
+Output N23 from 366_c17.v add to list
+POWER 367_c17.v   3.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 367_c17.v add to list
+Output N23 from 367_c17.v add to list
+POWER 368_c17.v   4.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 368_c17.v add to list
+Output N23 from 368_c17.v add to list
+POWER 369_c17.v   3.6e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 369_c17.v add to list
+Output N23 from 369_c17.v add to list
+POWER 370_c17.v   3.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 370_c17.v add to list
+Output N23 from 370_c17.v add to list
+POWER 371_c17.v   3.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 371_c17.v add to list
+Output N23 from 371_c17.v add to list
+POWER 372_c17.v   3.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 372_c17.v add to list
+Output N23 from 372_c17.v add to list
+POWER 373_c17.v   3.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 373_c17.v add to list
+Output N23 from 373_c17.v add to list
+POWER 374_c17.v   4.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 374_c17.v add to list
+Output N23 from 374_c17.v add to list
+POWER 375_c17.v   4.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 375_c17.v add to list
+Output N23 from 375_c17.v add to list
+POWER 376_c17.v   4.46e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 376_c17.v add to list
+Output N23 from 376_c17.v add to list
+POWER 377_c17.v   4.71e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 377_c17.v add to list
+Output N23 from 377_c17.v add to list
+POWER 378_c17.v   3.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 378_c17.v add to list
+Output N23 from 378_c17.v add to list
+POWER 379_c17.v   3.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 379_c17.v add to list
+Output N23 from 379_c17.v add to list
+POWER 380_c17.v   4.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 380_c17.v add to list
+Output N23 from 380_c17.v add to list
+POWER 381_c17.v   3.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 381_c17.v add to list
+Output N23 from 381_c17.v add to list
+POWER 382_c17.v   4.05e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 382_c17.v add to list
+Output N23 from 382_c17.v add to list
+POWER 383_c17.v   4.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 383_c17.v add to list
+Output N23 from 383_c17.v add to list
+POWER 384_c17.v   4.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 384_c17.v add to list
+Output N23 from 384_c17.v add to list
+POWER 385_c17.v   4.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 385_c17.v add to list
+Output N23 from 385_c17.v add to list
+POWER 386_c17.v   4.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 386_c17.v add to list
+Output N23 from 386_c17.v add to list
+POWER 387_c17.v   3.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 387_c17.v add to list
+Output N23 from 387_c17.v add to list
+POWER 388_c17.v   4.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 388_c17.v add to list
+Output N23 from 388_c17.v add to list
+POWER 389_c17.v   4.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 389_c17.v add to list
+Output N23 from 389_c17.v add to list
+POWER 390_c17.v   4.18e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 390_c17.v add to list
+Output N23 from 390_c17.v add to list
+POWER 391_c17.v   4.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 391_c17.v add to list
+Output N23 from 391_c17.v add to list
+POWER 392_c17.v   4.58e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 392_c17.v add to list
+Output N23 from 392_c17.v add to list
+POWER 393_c17.v   4.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 393_c17.v add to list
+Output N23 from 393_c17.v add to list
+POWER 394_c17.v   4.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 394_c17.v add to list
+Output N23 from 394_c17.v add to list
+POWER 395_c17.v   5.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 395_c17.v add to list
+Output N23 from 395_c17.v add to list
+POWER 396_c17.v   4.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 396_c17.v add to list
+Output N23 from 396_c17.v add to list
+POWER 397_c17.v   4.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 397_c17.v add to list
+Output N23 from 397_c17.v add to list
+POWER 398_c17.v   4.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 398_c17.v add to list
+Output N23 from 398_c17.v add to list
+POWER 399_c17.v   4.66e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 399_c17.v add to list
+Output N23 from 399_c17.v add to list
+POWER 400_c17.v   4.79e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 400_c17.v add to list
+Output N23 from 400_c17.v add to list
+POWER 401_c17.v   5.04e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 401_c17.v add to list
+Output N23 from 401_c17.v add to list
+POWER 402_c17.v   5.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 402_c17.v add to list
+Output N23 from 402_c17.v add to list
+POWER 403_c17.v   5.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 403_c17.v add to list
+Output N23 from 403_c17.v add to list
+POWER 404_c17.v   5.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 404_c17.v add to list
+Output N23 from 404_c17.v add to list
+POWER 405_c17.v   2.66e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 405_c17.v add to list
+Output N23 from 405_c17.v add to list
+POWER 406_c17.v   2.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 406_c17.v add to list
+Output N23 from 406_c17.v add to list
+POWER 407_c17.v   3.05e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 407_c17.v add to list
+Output N23 from 407_c17.v add to list
+POWER 408_c17.v   2.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 408_c17.v add to list
+Output N23 from 408_c17.v add to list
+POWER 409_c17.v   3.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 409_c17.v add to list
+Output N23 from 409_c17.v add to list
+POWER 410_c17.v   3.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 410_c17.v add to list
+Output N23 from 410_c17.v add to list
+POWER 411_c17.v   3.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 411_c17.v add to list
+Output N23 from 411_c17.v add to list
+POWER 412_c17.v   3.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 412_c17.v add to list
+Output N23 from 412_c17.v add to list
+POWER 413_c17.v   3.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 413_c17.v add to list
+Output N23 from 413_c17.v add to list
+POWER 414_c17.v   2.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 414_c17.v add to list
+Output N23 from 414_c17.v add to list
+POWER 415_c17.v   3.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 415_c17.v add to list
+Output N23 from 415_c17.v add to list
+POWER 416_c17.v   3.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 416_c17.v add to list
+Output N23 from 416_c17.v add to list
+POWER 417_c17.v   3.2e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 417_c17.v add to list
+Output N23 from 417_c17.v add to list
+POWER 418_c17.v   3.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 418_c17.v add to list
+Output N23 from 418_c17.v add to list
+POWER 419_c17.v   3.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 419_c17.v add to list
+Output N23 from 419_c17.v add to list
+POWER 420_c17.v   3.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 420_c17.v add to list
+Output N23 from 420_c17.v add to list
+POWER 421_c17.v   3.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 421_c17.v add to list
+Output N23 from 421_c17.v add to list
+POWER 422_c17.v   4.05e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 422_c17.v add to list
+Output N23 from 422_c17.v add to list
+POWER 423_c17.v   3.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 423_c17.v add to list
+Output N23 from 423_c17.v add to list
+POWER 424_c17.v   3.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 424_c17.v add to list
+Output N23 from 424_c17.v add to list
+POWER 425_c17.v   3.79e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 425_c17.v add to list
+Output N23 from 425_c17.v add to list
+POWER 426_c17.v   3.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 426_c17.v add to list
+Output N23 from 426_c17.v add to list
+POWER 427_c17.v   3.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 427_c17.v add to list
+Output N23 from 427_c17.v add to list
+POWER 428_c17.v   4.06e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 428_c17.v add to list
+Output N23 from 428_c17.v add to list
+POWER 429_c17.v   4.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 429_c17.v add to list
+Output N23 from 429_c17.v add to list
+POWER 430_c17.v   4.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 430_c17.v add to list
+Output N23 from 430_c17.v add to list
+POWER 431_c17.v   4.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 431_c17.v add to list
+Output N23 from 431_c17.v add to list
+POWER 432_c17.v   3.11e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 432_c17.v add to list
+Output N23 from 432_c17.v add to list
+POWER 433_c17.v   3.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 433_c17.v add to list
+Output N23 from 433_c17.v add to list
+POWER 434_c17.v   3.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 434_c17.v add to list
+Output N23 from 434_c17.v add to list
+POWER 435_c17.v   3.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 435_c17.v add to list
+Output N23 from 435_c17.v add to list
+POWER 436_c17.v   3.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 436_c17.v add to list
+Output N23 from 436_c17.v add to list
+POWER 437_c17.v   3.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 437_c17.v add to list
+Output N23 from 437_c17.v add to list
+POWER 438_c17.v   3.83e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 438_c17.v add to list
+Output N23 from 438_c17.v add to list
+POWER 439_c17.v   3.97e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 439_c17.v add to list
+Output N23 from 439_c17.v add to list
+POWER 440_c17.v   4.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 440_c17.v add to list
+Output N23 from 440_c17.v add to list
+POWER 441_c17.v   3.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 441_c17.v add to list
+Output N23 from 441_c17.v add to list
+POWER 442_c17.v   3.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 442_c17.v add to list
+Output N23 from 442_c17.v add to list
+POWER 443_c17.v   3.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 443_c17.v add to list
+Output N23 from 443_c17.v add to list
+POWER 444_c17.v   3.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 444_c17.v add to list
+Output N23 from 444_c17.v add to list
+POWER 445_c17.v   3.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 445_c17.v add to list
+Output N23 from 445_c17.v add to list
+POWER 446_c17.v   4.04e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 446_c17.v add to list
+Output N23 from 446_c17.v add to list
+POWER 447_c17.v   4.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 447_c17.v add to list
+Output N23 from 447_c17.v add to list
+POWER 448_c17.v   4.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 448_c17.v add to list
+Output N23 from 448_c17.v add to list
+POWER 449_c17.v   4.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 449_c17.v add to list
+Output N23 from 449_c17.v add to list
+POWER 450_c17.v   3.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 450_c17.v add to list
+Output N23 from 450_c17.v add to list
+POWER 451_c17.v   3.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 451_c17.v add to list
+Output N23 from 451_c17.v add to list
+POWER 452_c17.v   4.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 452_c17.v add to list
+Output N23 from 452_c17.v add to list
+POWER 453_c17.v   4.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 453_c17.v add to list
+Output N23 from 453_c17.v add to list
+POWER 454_c17.v   4.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 454_c17.v add to list
+Output N23 from 454_c17.v add to list
+POWER 455_c17.v   4.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 455_c17.v add to list
+Output N23 from 455_c17.v add to list
+POWER 456_c17.v   4.6e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 456_c17.v add to list
+Output N23 from 456_c17.v add to list
+POWER 457_c17.v   4.71e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 457_c17.v add to list
+Output N23 from 457_c17.v add to list
+POWER 458_c17.v   4.96e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 458_c17.v add to list
+Output N23 from 458_c17.v add to list
+POWER 459_c17.v   3.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 459_c17.v add to list
+Output N23 from 459_c17.v add to list
+POWER 460_c17.v   4.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 460_c17.v add to list
+Output N23 from 460_c17.v add to list
+POWER 461_c17.v   4.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 461_c17.v add to list
+Output N23 from 461_c17.v add to list
+POWER 462_c17.v   4.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 462_c17.v add to list
+Output N23 from 462_c17.v add to list
+POWER 463_c17.v   4.3e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 463_c17.v add to list
+Output N23 from 463_c17.v add to list
+POWER 464_c17.v   4.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 464_c17.v add to list
+Output N23 from 464_c17.v add to list
+POWER 465_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 465_c17.v add to list
+Output N23 from 465_c17.v add to list
+POWER 466_c17.v   4.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 466_c17.v add to list
+Output N23 from 466_c17.v add to list
+POWER 467_c17.v   5.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 467_c17.v add to list
+Output N23 from 467_c17.v add to list
+POWER 468_c17.v   4.2e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 468_c17.v add to list
+Output N23 from 468_c17.v add to list
+POWER 469_c17.v   4.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 469_c17.v add to list
+Output N23 from 469_c17.v add to list
+POWER 470_c17.v   4.6e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 470_c17.v add to list
+Output N23 from 470_c17.v add to list
+POWER 471_c17.v   4.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 471_c17.v add to list
+Output N23 from 471_c17.v add to list
+POWER 472_c17.v   4.57e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 472_c17.v add to list
+Output N23 from 472_c17.v add to list
+POWER 473_c17.v   4.83e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 473_c17.v add to list
+Output N23 from 473_c17.v add to list
+POWER 474_c17.v   4.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 474_c17.v add to list
+Output N23 from 474_c17.v add to list
+POWER 475_c17.v   5.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 475_c17.v add to list
+Output N23 from 475_c17.v add to list
+POWER 476_c17.v   5.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 476_c17.v add to list
+Output N23 from 476_c17.v add to list
+POWER 477_c17.v   4.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 477_c17.v add to list
+Output N23 from 477_c17.v add to list
+POWER 478_c17.v   4.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 478_c17.v add to list
+Output N23 from 478_c17.v add to list
+POWER 479_c17.v   5.06e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 479_c17.v add to list
+Output N23 from 479_c17.v add to list
+POWER 480_c17.v   4.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 480_c17.v add to list
+Output N23 from 480_c17.v add to list
+POWER 481_c17.v   5.04e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 481_c17.v add to list
+Output N23 from 481_c17.v add to list
+POWER 482_c17.v   5.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 482_c17.v add to list
+Output N23 from 482_c17.v add to list
+POWER 483_c17.v   5.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 483_c17.v add to list
+Output N23 from 483_c17.v add to list
+POWER 484_c17.v   5.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 484_c17.v add to list
+Output N23 from 484_c17.v add to list
+POWER 485_c17.v   5.75e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 485_c17.v add to list
+Output N23 from 485_c17.v add to list
+POWER 486_c17.v   3.04e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 486_c17.v add to list
+Output N23 from 486_c17.v add to list
+POWER 487_c17.v   3.18e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 487_c17.v add to list
+Output N23 from 487_c17.v add to list
+POWER 488_c17.v   3.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 488_c17.v add to list
+Output N23 from 488_c17.v add to list
+POWER 489_c17.v   3.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 489_c17.v add to list
+Output N23 from 489_c17.v add to list
+POWER 490_c17.v   3.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 490_c17.v add to list
+Output N23 from 490_c17.v add to list
+POWER 491_c17.v   3.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 491_c17.v add to list
+Output N23 from 491_c17.v add to list
+POWER 492_c17.v   3.75e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 492_c17.v add to list
+Output N23 from 492_c17.v add to list
+POWER 493_c17.v   3.88e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 493_c17.v add to list
+Output N23 from 493_c17.v add to list
+POWER 494_c17.v   4.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 494_c17.v add to list
+Output N23 from 494_c17.v add to list
+POWER 495_c17.v   3.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 495_c17.v add to list
+Output N23 from 495_c17.v add to list
+POWER 496_c17.v   3.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 496_c17.v add to list
+Output N23 from 496_c17.v add to list
+POWER 497_c17.v   3.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 497_c17.v add to list
+Output N23 from 497_c17.v add to list
+POWER 498_c17.v   3.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 498_c17.v add to list
+Output N23 from 498_c17.v add to list
+POWER 499_c17.v   3.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 499_c17.v add to list
+Output N23 from 499_c17.v add to list
+POWER 500_c17.v   3.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 500_c17.v add to list
+Output N23 from 500_c17.v add to list
+POWER 501_c17.v   4.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 501_c17.v add to list
+Output N23 from 501_c17.v add to list
+POWER 502_c17.v   4.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 502_c17.v add to list
+Output N23 from 502_c17.v add to list
+POWER 503_c17.v   4.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 503_c17.v add to list
+Output N23 from 503_c17.v add to list
+POWER 504_c17.v   3.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 504_c17.v add to list
+Output N23 from 504_c17.v add to list
+POWER 505_c17.v   3.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 505_c17.v add to list
+Output N23 from 505_c17.v add to list
+POWER 506_c17.v   4.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 506_c17.v add to list
+Output N23 from 506_c17.v add to list
+POWER 507_c17.v   4.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 507_c17.v add to list
+Output N23 from 507_c17.v add to list
+POWER 508_c17.v   4.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 508_c17.v add to list
+Output N23 from 508_c17.v add to list
+POWER 509_c17.v   4.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 509_c17.v add to list
+Output N23 from 509_c17.v add to list
+POWER 510_c17.v   4.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 510_c17.v add to list
+Output N23 from 510_c17.v add to list
+POWER 511_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 511_c17.v add to list
+Output N23 from 511_c17.v add to list
+POWER 512_c17.v   4.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 512_c17.v add to list
+Output N23 from 512_c17.v add to list
+POWER 513_c17.v   3.5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 513_c17.v add to list
+Output N23 from 513_c17.v add to list
+POWER 514_c17.v   3.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 514_c17.v add to list
+Output N23 from 514_c17.v add to list
+POWER 515_c17.v   3.89e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 515_c17.v add to list
+Output N23 from 515_c17.v add to list
+POWER 516_c17.v   3.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 516_c17.v add to list
+Output N23 from 516_c17.v add to list
+POWER 517_c17.v   3.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 517_c17.v add to list
+Output N23 from 517_c17.v add to list
+POWER 518_c17.v   4.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 518_c17.v add to list
+Output N23 from 518_c17.v add to list
+POWER 519_c17.v   4.19e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 519_c17.v add to list
+Output N23 from 519_c17.v add to list
+POWER 520_c17.v   4.33e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 520_c17.v add to list
+Output N23 from 520_c17.v add to list
+POWER 521_c17.v   4.58e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 521_c17.v add to list
+Output N23 from 521_c17.v add to list
+POWER 522_c17.v   3.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 522_c17.v add to list
+Output N23 from 522_c17.v add to list
+POWER 523_c17.v   3.92e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 523_c17.v add to list
+Output N23 from 523_c17.v add to list
+POWER 524_c17.v   4.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 524_c17.v add to list
+Output N23 from 524_c17.v add to list
+POWER 525_c17.v   4.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 525_c17.v add to list
+Output N23 from 525_c17.v add to list
+POWER 526_c17.v   4.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 526_c17.v add to list
+Output N23 from 526_c17.v add to list
+POWER 527_c17.v   4.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 527_c17.v add to list
+Output N23 from 527_c17.v add to list
+POWER 528_c17.v   4.47e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 528_c17.v add to list
+Output N23 from 528_c17.v add to list
+POWER 529_c17.v   4.6e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 529_c17.v add to list
+Output N23 from 529_c17.v add to list
+POWER 530_c17.v   4.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 530_c17.v add to list
+Output N23 from 530_c17.v add to list
+POWER 531_c17.v   4.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 531_c17.v add to list
+Output N23 from 531_c17.v add to list
+POWER 532_c17.v   4.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 532_c17.v add to list
+Output N23 from 532_c17.v add to list
+POWER 533_c17.v   4.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 533_c17.v add to list
+Output N23 from 533_c17.v add to list
+POWER 534_c17.v   4.48e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 534_c17.v add to list
+Output N23 from 534_c17.v add to list
+POWER 535_c17.v   4.61e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 535_c17.v add to list
+Output N23 from 535_c17.v add to list
+POWER 536_c17.v   4.86e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 536_c17.v add to list
+Output N23 from 536_c17.v add to list
+POWER 537_c17.v   4.96e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 537_c17.v add to list
+Output N23 from 537_c17.v add to list
+POWER 538_c17.v   5.06e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 538_c17.v add to list
+Output N23 from 538_c17.v add to list
+POWER 539_c17.v   5.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 539_c17.v add to list
+Output N23 from 539_c17.v add to list
+POWER 540_c17.v   4.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 540_c17.v add to list
+Output N23 from 540_c17.v add to list
+POWER 541_c17.v   4.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 541_c17.v add to list
+Output N23 from 541_c17.v add to list
+POWER 542_c17.v   4.74e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 542_c17.v add to list
+Output N23 from 542_c17.v add to list
+POWER 543_c17.v   4.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 543_c17.v add to list
+Output N23 from 543_c17.v add to list
+POWER 544_c17.v   4.68e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 544_c17.v add to list
+Output N23 from 544_c17.v add to list
+POWER 545_c17.v   4.93e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 545_c17.v add to list
+Output N23 from 545_c17.v add to list
+POWER 546_c17.v   4.98e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 546_c17.v add to list
+Output N23 from 546_c17.v add to list
+POWER 547_c17.v   5.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 547_c17.v add to list
+Output N23 from 547_c17.v add to list
+POWER 548_c17.v   5.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 548_c17.v add to list
+Output N23 from 548_c17.v add to list
+POWER 549_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 549_c17.v add to list
+Output N23 from 549_c17.v add to list
+POWER 550_c17.v   4.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 550_c17.v add to list
+Output N23 from 550_c17.v add to list
+POWER 551_c17.v   5.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 551_c17.v add to list
+Output N23 from 551_c17.v add to list
+POWER 552_c17.v   4.81e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 552_c17.v add to list
+Output N23 from 552_c17.v add to list
+POWER 553_c17.v   4.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 553_c17.v add to list
+Output N23 from 553_c17.v add to list
+POWER 554_c17.v   5.2e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 554_c17.v add to list
+Output N23 from 554_c17.v add to list
+POWER 555_c17.v   5.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 555_c17.v add to list
+Output N23 from 555_c17.v add to list
+POWER 556_c17.v   5.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 556_c17.v add to list
+Output N23 from 556_c17.v add to list
+POWER 557_c17.v   5.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 557_c17.v add to list
+Output N23 from 557_c17.v add to list
+POWER 558_c17.v   5.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 558_c17.v add to list
+Output N23 from 558_c17.v add to list
+POWER 559_c17.v   5.22e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 559_c17.v add to list
+Output N23 from 559_c17.v add to list
+POWER 560_c17.v   5.48e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 560_c17.v add to list
+Output N23 from 560_c17.v add to list
+POWER 561_c17.v   5.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 561_c17.v add to list
+Output N23 from 561_c17.v add to list
+POWER 562_c17.v   5.41e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 562_c17.v add to list
+Output N23 from 562_c17.v add to list
+POWER 563_c17.v   5.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 563_c17.v add to list
+Output N23 from 563_c17.v add to list
+POWER 564_c17.v   5.74e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 564_c17.v add to list
+Output N23 from 564_c17.v add to list
+POWER 565_c17.v   5.85e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 565_c17.v add to list
+Output N23 from 565_c17.v add to list
+POWER 566_c17.v   6.1e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 566_c17.v add to list
+Output N23 from 566_c17.v add to list
+POWER 567_c17.v   3.18e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 567_c17.v add to list
+Output N23 from 567_c17.v add to list
+POWER 568_c17.v   3.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 568_c17.v add to list
+Output N23 from 568_c17.v add to list
+POWER 569_c17.v   3.57e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 569_c17.v add to list
+Output N23 from 569_c17.v add to list
+POWER 570_c17.v   3.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 570_c17.v add to list
+Output N23 from 570_c17.v add to list
+POWER 571_c17.v   3.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 571_c17.v add to list
+Output N23 from 571_c17.v add to list
+POWER 572_c17.v   3.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 572_c17.v add to list
+Output N23 from 572_c17.v add to list
+POWER 573_c17.v   3.89e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 573_c17.v add to list
+Output N23 from 573_c17.v add to list
+POWER 574_c17.v   4.02e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 574_c17.v add to list
+Output N23 from 574_c17.v add to list
+POWER 575_c17.v   4.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 575_c17.v add to list
+Output N23 from 575_c17.v add to list
+POWER 576_c17.v   3.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 576_c17.v add to list
+Output N23 from 576_c17.v add to list
+POWER 577_c17.v   3.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 577_c17.v add to list
+Output N23 from 577_c17.v add to list
+POWER 578_c17.v   3.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 578_c17.v add to list
+Output N23 from 578_c17.v add to list
+POWER 579_c17.v   3.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 579_c17.v add to list
+Output N23 from 579_c17.v add to list
+POWER 580_c17.v   3.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 580_c17.v add to list
+Output N23 from 580_c17.v add to list
+POWER 581_c17.v   4.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 581_c17.v add to list
+Output N23 from 581_c17.v add to list
+POWER 582_c17.v   4.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 582_c17.v add to list
+Output N23 from 582_c17.v add to list
+POWER 583_c17.v   4.29e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 583_c17.v add to list
+Output N23 from 583_c17.v add to list
+POWER 584_c17.v   4.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 584_c17.v add to list
+Output N23 from 584_c17.v add to list
+POWER 585_c17.v   3.92e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 585_c17.v add to list
+Output N23 from 585_c17.v add to list
+POWER 586_c17.v   4.05e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 586_c17.v add to list
+Output N23 from 586_c17.v add to list
+POWER 587_c17.v   4.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 587_c17.v add to list
+Output N23 from 587_c17.v add to list
+POWER 588_c17.v   4.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 588_c17.v add to list
+Output N23 from 588_c17.v add to list
+POWER 589_c17.v   4.3e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 589_c17.v add to list
+Output N23 from 589_c17.v add to list
+POWER 590_c17.v   4.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 590_c17.v add to list
+Output N23 from 590_c17.v add to list
+POWER 591_c17.v   4.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 591_c17.v add to list
+Output N23 from 591_c17.v add to list
+POWER 592_c17.v   4.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 592_c17.v add to list
+Output N23 from 592_c17.v add to list
+POWER 593_c17.v   5.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 593_c17.v add to list
+Output N23 from 593_c17.v add to list
+POWER 594_c17.v   3.64e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 594_c17.v add to list
+Output N23 from 594_c17.v add to list
+POWER 595_c17.v   3.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 595_c17.v add to list
+Output N23 from 595_c17.v add to list
+POWER 596_c17.v   4.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 596_c17.v add to list
+Output N23 from 596_c17.v add to list
+POWER 597_c17.v   3.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 597_c17.v add to list
+Output N23 from 597_c17.v add to list
+POWER 598_c17.v   4.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 598_c17.v add to list
+Output N23 from 598_c17.v add to list
+POWER 599_c17.v   4.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 599_c17.v add to list
+Output N23 from 599_c17.v add to list
+POWER 600_c17.v   4.33e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 600_c17.v add to list
+Output N23 from 600_c17.v add to list
+POWER 601_c17.v   4.46e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 601_c17.v add to list
+Output N23 from 601_c17.v add to list
+POWER 602_c17.v   4.72e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 602_c17.v add to list
+Output N23 from 602_c17.v add to list
+POWER 603_c17.v   3.91e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 603_c17.v add to list
+Output N23 from 603_c17.v add to list
+POWER 604_c17.v   4.06e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 604_c17.v add to list
+Output N23 from 604_c17.v add to list
+POWER 605_c17.v   4.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 605_c17.v add to list
+Output N23 from 605_c17.v add to list
+POWER 606_c17.v   4.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 606_c17.v add to list
+Output N23 from 606_c17.v add to list
+POWER 607_c17.v   4.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 607_c17.v add to list
+Output N23 from 607_c17.v add to list
+POWER 608_c17.v   4.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 608_c17.v add to list
+Output N23 from 608_c17.v add to list
+POWER 609_c17.v   4.61e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 609_c17.v add to list
+Output N23 from 609_c17.v add to list
+POWER 610_c17.v   4.73e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 610_c17.v add to list
+Output N23 from 610_c17.v add to list
+POWER 611_c17.v   4.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 611_c17.v add to list
+Output N23 from 611_c17.v add to list
+POWER 612_c17.v   4.38e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 612_c17.v add to list
+Output N23 from 612_c17.v add to list
+POWER 613_c17.v   4.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 613_c17.v add to list
+Output N23 from 613_c17.v add to list
+POWER 614_c17.v   4.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 614_c17.v add to list
+Output N23 from 614_c17.v add to list
+POWER 615_c17.v   4.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 615_c17.v add to list
+Output N23 from 615_c17.v add to list
+POWER 616_c17.v   4.74e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 616_c17.v add to list
+Output N23 from 616_c17.v add to list
+POWER 617_c17.v   5e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 617_c17.v add to list
+Output N23 from 617_c17.v add to list
+POWER 618_c17.v   5.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 618_c17.v add to list
+Output N23 from 618_c17.v add to list
+POWER 619_c17.v   5.2e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 619_c17.v add to list
+Output N23 from 619_c17.v add to list
+POWER 620_c17.v   5.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 620_c17.v add to list
+Output N23 from 620_c17.v add to list
+POWER 621_c17.v   4.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 621_c17.v add to list
+Output N23 from 621_c17.v add to list
+POWER 622_c17.v   4.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 622_c17.v add to list
+Output N23 from 622_c17.v add to list
+POWER 623_c17.v   4.88e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 623_c17.v add to list
+Output N23 from 623_c17.v add to list
+POWER 624_c17.v   4.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 624_c17.v add to list
+Output N23 from 624_c17.v add to list
+POWER 625_c17.v   4.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 625_c17.v add to list
+Output N23 from 625_c17.v add to list
+POWER 626_c17.v   5.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 626_c17.v add to list
+Output N23 from 626_c17.v add to list
+POWER 627_c17.v   5.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 627_c17.v add to list
+Output N23 from 627_c17.v add to list
+POWER 628_c17.v   5.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 628_c17.v add to list
+Output N23 from 628_c17.v add to list
+POWER 629_c17.v   5.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 629_c17.v add to list
+Output N23 from 629_c17.v add to list
+POWER 630_c17.v   4.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 630_c17.v add to list
+Output N23 from 630_c17.v add to list
+POWER 631_c17.v   4.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 631_c17.v add to list
+Output N23 from 631_c17.v add to list
+POWER 632_c17.v   5.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 632_c17.v add to list
+Output N23 from 632_c17.v add to list
+POWER 633_c17.v   4.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 633_c17.v add to list
+Output N23 from 633_c17.v add to list
+POWER 634_c17.v   5.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 634_c17.v add to list
+Output N23 from 634_c17.v add to list
+POWER 635_c17.v   5.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 635_c17.v add to list
+Output N23 from 635_c17.v add to list
+POWER 636_c17.v   5.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 636_c17.v add to list
+Output N23 from 636_c17.v add to list
+POWER 637_c17.v   5.52e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 637_c17.v add to list
+Output N23 from 637_c17.v add to list
+POWER 638_c17.v   5.78e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 638_c17.v add to list
+Output N23 from 638_c17.v add to list
+POWER 639_c17.v   5.23e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 639_c17.v add to list
+Output N23 from 639_c17.v add to list
+POWER 640_c17.v   5.36e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 640_c17.v add to list
+Output N23 from 640_c17.v add to list
+POWER 641_c17.v   5.62e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 641_c17.v add to list
+Output N23 from 641_c17.v add to list
+POWER 642_c17.v   5.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 642_c17.v add to list
+Output N23 from 642_c17.v add to list
+POWER 643_c17.v   5.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 643_c17.v add to list
+Output N23 from 643_c17.v add to list
+POWER 644_c17.v   5.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 644_c17.v add to list
+Output N23 from 644_c17.v add to list
+POWER 645_c17.v   5.88e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 645_c17.v add to list
+Output N23 from 645_c17.v add to list
+POWER 646_c17.v   5.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 646_c17.v add to list
+Output N23 from 646_c17.v add to list
+POWER 647_c17.v   6.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 647_c17.v add to list
+Output N23 from 647_c17.v add to list
+POWER 648_c17.v   3.43e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 648_c17.v add to list
+Output N23 from 648_c17.v add to list
+POWER 649_c17.v   3.57e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 649_c17.v add to list
+Output N23 from 649_c17.v add to list
+POWER 650_c17.v   3.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 650_c17.v add to list
+Output N23 from 650_c17.v add to list
+POWER 651_c17.v   3.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 651_c17.v add to list
+Output N23 from 651_c17.v add to list
+POWER 652_c17.v   3.82e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 652_c17.v add to list
+Output N23 from 652_c17.v add to list
+POWER 653_c17.v   4.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 653_c17.v add to list
+Output N23 from 653_c17.v add to list
+POWER 654_c17.v   4.14e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 654_c17.v add to list
+Output N23 from 654_c17.v add to list
+POWER 655_c17.v   4.27e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 655_c17.v add to list
+Output N23 from 655_c17.v add to list
+POWER 656_c17.v   4.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 656_c17.v add to list
+Output N23 from 656_c17.v add to list
+POWER 657_c17.v   3.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 657_c17.v add to list
+Output N23 from 657_c17.v add to list
+POWER 658_c17.v   3.84e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 658_c17.v add to list
+Output N23 from 658_c17.v add to list
+POWER 659_c17.v   4.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 659_c17.v add to list
+Output N23 from 659_c17.v add to list
+POWER 660_c17.v   3.95e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 660_c17.v add to list
+Output N23 from 660_c17.v add to list
+POWER 661_c17.v   4.09e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 661_c17.v add to list
+Output N23 from 661_c17.v add to list
+POWER 662_c17.v   4.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 662_c17.v add to list
+Output N23 from 662_c17.v add to list
+POWER 663_c17.v   4.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 663_c17.v add to list
+Output N23 from 663_c17.v add to list
+POWER 664_c17.v   4.54e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 664_c17.v add to list
+Output N23 from 664_c17.v add to list
+POWER 665_c17.v   4.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 665_c17.v add to list
+Output N23 from 665_c17.v add to list
+POWER 666_c17.v   4.17e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 666_c17.v add to list
+Output N23 from 666_c17.v add to list
+POWER 667_c17.v   4.3e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 667_c17.v add to list
+Output N23 from 667_c17.v add to list
+POWER 668_c17.v   4.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 668_c17.v add to list
+Output N23 from 668_c17.v add to list
+POWER 669_c17.v   4.42e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 669_c17.v add to list
+Output N23 from 669_c17.v add to list
+POWER 670_c17.v   4.55e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 670_c17.v add to list
+Output N23 from 670_c17.v add to list
+POWER 671_c17.v   4.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 671_c17.v add to list
+Output N23 from 671_c17.v add to list
+POWER 672_c17.v   4.9e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 672_c17.v add to list
+Output N23 from 672_c17.v add to list
+POWER 673_c17.v   5.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 673_c17.v add to list
+Output N23 from 673_c17.v add to list
+POWER 674_c17.v   5.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 674_c17.v add to list
+Output N23 from 674_c17.v add to list
+POWER 675_c17.v   3.89e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 675_c17.v add to list
+Output N23 from 675_c17.v add to list
+POWER 676_c17.v   4.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 676_c17.v add to list
+Output N23 from 676_c17.v add to list
+POWER 677_c17.v   4.28e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 677_c17.v add to list
+Output N23 from 677_c17.v add to list
+POWER 678_c17.v   4.12e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 678_c17.v add to list
+Output N23 from 678_c17.v add to list
+POWER 679_c17.v   4.26e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 679_c17.v add to list
+Output N23 from 679_c17.v add to list
+POWER 680_c17.v   4.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 680_c17.v add to list
+Output N23 from 680_c17.v add to list
+POWER 681_c17.v   4.58e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 681_c17.v add to list
+Output N23 from 681_c17.v add to list
+POWER 682_c17.v   4.71e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 682_c17.v add to list
+Output N23 from 682_c17.v add to list
+POWER 683_c17.v   4.97e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 683_c17.v add to list
+Output N23 from 683_c17.v add to list
+POWER 684_c17.v   4.16e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 684_c17.v add to list
+Output N23 from 684_c17.v add to list
+POWER 685_c17.v   4.31e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 685_c17.v add to list
+Output N23 from 685_c17.v add to list
+POWER 686_c17.v   4.56e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 686_c17.v add to list
+Output N23 from 686_c17.v add to list
+POWER 687_c17.v   4.39e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 687_c17.v add to list
+Output N23 from 687_c17.v add to list
+POWER 688_c17.v   4.53e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 688_c17.v add to list
+Output N23 from 688_c17.v add to list
+POWER 689_c17.v   4.79e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 689_c17.v add to list
+Output N23 from 689_c17.v add to list
+POWER 690_c17.v   4.86e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 690_c17.v add to list
+Output N23 from 690_c17.v add to list
+POWER 691_c17.v   4.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 691_c17.v add to list
+Output N23 from 691_c17.v add to list
+POWER 692_c17.v   5.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 692_c17.v add to list
+Output N23 from 692_c17.v add to list
+POWER 693_c17.v   4.63e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 693_c17.v add to list
+Output N23 from 693_c17.v add to list
+POWER 694_c17.v   4.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 694_c17.v add to list
+Output N23 from 694_c17.v add to list
+POWER 695_c17.v   5.02e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 695_c17.v add to list
+Output N23 from 695_c17.v add to list
+POWER 696_c17.v   4.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 696_c17.v add to list
+Output N23 from 696_c17.v add to list
+POWER 697_c17.v   4.99e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 697_c17.v add to list
+Output N23 from 697_c17.v add to list
+POWER 698_c17.v   5.25e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 698_c17.v add to list
+Output N23 from 698_c17.v add to list
+POWER 699_c17.v   5.35e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 699_c17.v add to list
+Output N23 from 699_c17.v add to list
+POWER 700_c17.v   5.45e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 700_c17.v add to list
+Output N23 from 700_c17.v add to list
+POWER 701_c17.v   5.7e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 701_c17.v add to list
+Output N23 from 701_c17.v add to list
+POWER 702_c17.v   4.74e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 702_c17.v add to list
+Output N23 from 702_c17.v add to list
+POWER 703_c17.v   4.88e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 703_c17.v add to list
+Output N23 from 703_c17.v add to list
+POWER 704_c17.v   5.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 704_c17.v add to list
+Output N23 from 704_c17.v add to list
+POWER 705_c17.v   4.92e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 705_c17.v add to list
+Output N23 from 705_c17.v add to list
+POWER 706_c17.v   5.07e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 706_c17.v add to list
+Output N23 from 706_c17.v add to list
+POWER 707_c17.v   5.32e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 707_c17.v add to list
+Output N23 from 707_c17.v add to list
+POWER 708_c17.v   5.37e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 708_c17.v add to list
+Output N23 from 708_c17.v add to list
+POWER 709_c17.v   5.51e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 709_c17.v add to list
+Output N23 from 709_c17.v add to list
+POWER 710_c17.v   5.76e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 710_c17.v add to list
+Output N23 from 710_c17.v add to list
+POWER 711_c17.v   5.01e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 711_c17.v add to list
+Output N23 from 711_c17.v add to list
+POWER 712_c17.v   5.15e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 712_c17.v add to list
+Output N23 from 712_c17.v add to list
+POWER 713_c17.v   5.4e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 713_c17.v add to list
+Output N23 from 713_c17.v add to list
+POWER 714_c17.v   5.2e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 714_c17.v add to list
+Output N23 from 714_c17.v add to list
+POWER 715_c17.v   5.34e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 715_c17.v add to list
+Output N23 from 715_c17.v add to list
+POWER 716_c17.v   5.59e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 716_c17.v add to list
+Output N23 from 716_c17.v add to list
+POWER 717_c17.v   5.65e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 717_c17.v add to list
+Output N23 from 717_c17.v add to list
+POWER 718_c17.v   5.77e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 718_c17.v add to list
+Output N23 from 718_c17.v add to list
+POWER 719_c17.v   6.03e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 719_c17.v add to list
+Output N23 from 719_c17.v add to list
+POWER 720_c17.v   5.48e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 720_c17.v add to list
+Output N23 from 720_c17.v add to list
+POWER 721_c17.v   5.61e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 721_c17.v add to list
+Output N23 from 721_c17.v add to list
+POWER 722_c17.v   5.87e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 722_c17.v add to list
+Output N23 from 722_c17.v add to list
+POWER 723_c17.v   5.67e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 723_c17.v add to list
+Output N23 from 723_c17.v add to list
+POWER 724_c17.v   5.8e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 724_c17.v add to list
+Output N23 from 724_c17.v add to list
+POWER 725_c17.v   6.05e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 725_c17.v add to list
+Output N23 from 725_c17.v add to list
+POWER 726_c17.v   6.13e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 726_c17.v add to list
+Output N23 from 726_c17.v add to list
+POWER 727_c17.v   6.24e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 727_c17.v add to list
+Output N23 from 727_c17.v add to list
+POWER 728_c17.v   6.49e-06
+design cells -> ['4', '5', '6', '7', '8', '9']
+Output N22 from 728_c17.v add to list
+Output N23 from 728_c17.v add to list

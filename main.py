@@ -30,7 +30,7 @@ def format_cells(cells_dict):
     return result
 
 
-def _norm_cell_id(x) -> str:
+def norm_cell_id(x) -> str:
     # Garante comparação consistente entre '4' e 4
     return str(x).strip()
 
@@ -42,7 +42,7 @@ def process_out_path(cells_dict):
     seen = set()
     critical = []
     for v in vals:
-        s = _norm_cell_id(v)
+        s = norm_cell_id(v)
         if s not in seen:
             seen.add(s)
             critical.append(s)
@@ -51,7 +51,7 @@ def process_out_path(cells_dict):
     return critical
 
 def out_path(circuit_cells, cells_dict):
-    design = [_norm_cell_id(c) for c in circuit_cells]
+    design = [norm_cell_id(c) for c in circuit_cells]
     print(f"design cells -> {design}")
 
     critical_paths = set(process_out_path(cells_dict))  
@@ -118,6 +118,8 @@ for sta_file in files:
 
     arrivals = rt.get_arrival_times()
     cells = rt.get_cells()
+    power = rt.get_power()
+    
     
     # Formata células como string separada por -
     cells_formatted = format_cells(cells)
@@ -130,4 +132,3 @@ for sta_file in files:
    
     design_outputs = readV.Get_IO(circuit_file, dir_circuits).get_outputs()
 
-   

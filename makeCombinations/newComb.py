@@ -169,7 +169,7 @@ class Edit_verilog:
                 f.writelines(lines)
         return edited
 
-verilog_file = f"c432.v"
+verilog_file = f"c17.v"
 design = verilog_file.split(".")[0]
 output_dir = './inputs'
 ids = gates_from_file(verilog_file)
