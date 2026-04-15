@@ -1,4 +1,4 @@
-circuit,design,power,size_gates,cells_out_path,arrival_1,arrival_2,path_1,path_2,gains_1,gains_2
+circuit,design,power,size_gates,circuit_area,cells_out_path,arrival_1,arrival_2,path_1,path_2,gains_1,gains_2
 c17,0,1.85e-06,X1-X1-X1-X1-X1-X1,6-8,0.05046,0.05046,4-5-9,4-5-7,,
 c17,1,1.99e-06,X1-X1-X1-X1-X1-X2,6-8,0.04672,0.04672,4-5-9,4-5-7,,
 c17,2,2.24e-06,X1-X1-X1-X1-X1-X4,6-8,0.04667,0.04667,4-5-9,4-5-7,,

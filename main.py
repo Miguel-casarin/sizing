@@ -6,6 +6,7 @@ from scripts import Decoder
 from scripts import runSTA
 from scripts import readV
 from scripts import makeCSV
+from scripts import calculetArea
 from scripts import getGains
 
 design_path = "./staOutputs"
@@ -61,6 +62,7 @@ def circuit_table(csv_dir, csv_path, arrives, paths, gains):
         'design',
         'power',
         'size_gates',
+        'circuit_area',
         'cells_out_path'
     ]
 
@@ -155,14 +157,13 @@ def build_row(csv_name, code, power, size_gates, out_path_cells_str, arrival_val
         out_path_cells_str,
         *arrival_vals,
         *path_vals,
-        *([""] * number_coluns),  # gains_* (mantém vazio por enquanto)
+        *([""] * number_coluns), 
     ]
 
 # Evita de rodar o sta toda hora
 if is_dir_empty(design_path):
     runSTA.run_sta()
 
-# IMPORTANTE: pega os arquivos depois de garantir que o STA rodou
 files = dir.get_files(design_path)
 
 gio = readV.Get_IO(f'0_{verilog}', dir_circuits)
@@ -184,11 +185,16 @@ for sta_file in files:
 
     number_gates = readV.number_gates(circuit_file, dir_circuits)
     sized_gates = Decoder.get_sequence(number_gates, int(code))
+   
 
     if isinstance(sized_gates, list):
         size_gates = '-'.join(str(s) for s in sized_gates)
     else:
         size_gates = str(sized_gates)
+
+    # Calculo da área 
+    cells_area = calculetArea.map_nand_area(sized_gates)
+    print(f"AREA DIMISIONS {cells_area}")
 
     arrivals = rt.get_arrival_times()  # dict: chave = índice da coluna
     cells = rt.get_cells()             # dict: chave = índice da coluna (paths)
@@ -214,4 +220,6 @@ for sta_file in files:
     )
 
     makeCSV.Edit_csv(csv_path, data_to_fill).insert_csv_data()
+
+    #ad_gains = getGains.run_gains(csv_path, colun = "gains", )
 

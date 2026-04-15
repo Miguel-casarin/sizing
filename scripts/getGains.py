@@ -68,3 +68,10 @@ def calculet_adiction(csv_file, dic_baselines, number_outputs, ndigits=6):
 
     return dic_gains
 
+
+def run_gains(csv, colum, number_outputs):
+    frist_line = first_csv_line(csv)
+    base_lines = filter_values(frist_line, colum, number_outputs)
+    dic_baselines = calculet_adiction(csv, base_lines, number_outputs, ndigits=6)
+
+    return dic_baselines
