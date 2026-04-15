@@ -1459,1460 +1459,2189 @@ File 728_c17.txt ad to circuit list
 Output N22 from 0_c17.v add to list
 Output N23 from 0_c17.v add to list
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 0 : 4.788
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 1 : 5.32
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 2 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 3 : 5.32
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 4 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 5 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 6 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 7 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 8 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 9 : 5.32
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 10 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 11 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 12 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 13 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 14 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 15 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 16 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 17 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 18 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 19 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 20 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 21 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 22 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 23 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 24 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 25 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 26 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 27 : 5.32
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 28 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 29 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 30 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 31 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 32 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 33 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 34 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 35 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 36 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 37 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 38 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 39 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 40 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 41 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 42 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 43 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 44 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 45 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 46 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 47 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 48 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 49 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 50 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 51 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 52 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 53 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 54 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 55 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 56 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 57 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 58 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 59 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 60 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 61 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 62 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 63 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 64 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 65 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 66 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 67 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 68 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 69 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 70 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 71 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 72 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 73 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 74 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 75 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 76 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 77 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 78 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 79 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 0.798, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 80 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 81 : 5.32
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 82 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 83 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 84 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 85 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 86 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 87 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 88 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 89 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 90 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 91 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 92 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 93 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 94 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 95 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 96 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 97 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 98 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 99 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 100 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 101 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 102 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 103 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 104 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 105 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 106 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 107 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 108 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 109 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 110 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 111 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 112 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 113 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 114 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 115 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 116 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 117 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 118 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 119 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 120 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 121 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 122 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 123 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 124 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 125 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 126 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 127 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 128 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 129 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 130 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 131 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 132 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 133 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 134 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 135 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 136 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 137 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 138 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 139 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 140 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 141 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 142 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 143 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 144 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 145 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 146 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 147 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 148 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 149 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 150 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 151 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 152 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 153 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 154 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 155 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 156 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 157 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 158 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 159 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 160 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 1.33, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 161 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 162 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 163 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 164 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 165 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 166 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 167 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 168 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 169 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 170 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 171 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 172 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 173 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 174 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 175 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 176 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 177 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 178 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 179 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 180 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 181 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 182 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 183 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 184 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 185 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 186 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 187 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 188 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 189 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 190 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 191 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 192 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 193 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 194 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 195 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 196 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 197 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 198 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 199 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 200 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 201 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 202 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 203 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 204 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 205 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 206 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 207 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 208 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 209 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 210 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 211 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 212 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 213 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 214 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 215 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 216 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 217 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 218 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 219 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 220 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 221 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 222 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 223 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 224 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 225 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 226 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 227 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 228 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 229 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 230 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 231 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 232 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 233 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 234 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 235 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 236 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 237 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 238 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 239 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 240 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 241 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [0.798, 2.394, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 242 : 12.768
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 243 : 5.32
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 244 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 245 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 246 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 247 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 248 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 249 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 250 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 251 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 252 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 253 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 254 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 255 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 256 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 257 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 258 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 259 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 260 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 261 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 262 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 263 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 264 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 265 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 266 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 267 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 268 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 269 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 270 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 271 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 272 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 273 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 274 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 275 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 276 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 277 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 278 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 279 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 280 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 281 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 282 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 283 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 284 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 285 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 286 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 287 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 288 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 289 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 290 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 291 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 292 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 293 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 294 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 295 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 296 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 297 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 298 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 299 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 300 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 301 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 302 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 303 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 304 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 305 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 306 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 307 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 308 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 309 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 310 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 311 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 312 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 313 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 314 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 315 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 316 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 317 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 318 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 319 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 320 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 321 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 322 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 0.798, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 323 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 324 : 5.852
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 325 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 326 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 327 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 328 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 329 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 330 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 331 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 332 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 333 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 334 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 335 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 336 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 337 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 338 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 339 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 340 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 341 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 342 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 343 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 344 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 345 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 346 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 347 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 348 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 349 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 350 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 351 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 352 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 353 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 354 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 355 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 356 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 357 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 358 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 359 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 360 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 361 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 362 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 363 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 364 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 365 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 366 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 367 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 368 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 369 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 370 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 371 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 372 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 373 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 374 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 375 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 376 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 377 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 378 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 379 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 380 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 381 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 382 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 383 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 384 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 385 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 386 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 387 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 388 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 389 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 390 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 391 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 392 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 393 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 394 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 395 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 396 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 397 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 398 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 399 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 400 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 401 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 402 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 403 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 1.33, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 404 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 405 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 406 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 407 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 408 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 409 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 410 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 411 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 412 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 413 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 414 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 415 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 416 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 417 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 418 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 419 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 420 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 421 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 422 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 423 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 424 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 425 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 426 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 427 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 428 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 429 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 430 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 431 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 432 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 433 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 434 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 435 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 436 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 437 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 438 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 439 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 440 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 441 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 442 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 443 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 444 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 445 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 446 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 447 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 448 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 449 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 450 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 451 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 452 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 453 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 454 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 455 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 456 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 457 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 458 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 459 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 460 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 461 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 462 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 463 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 464 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 465 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 466 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 467 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 468 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 469 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 470 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 471 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 472 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 473 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 474 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 475 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 476 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 477 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 478 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 479 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 480 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 481 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 482 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 483 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 484 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [1.33, 2.394, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 485 : 13.3
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 486 : 6.384
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 487 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 488 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 489 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 490 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 491 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 492 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 493 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 494 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 495 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 496 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 497 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 498 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 499 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 500 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 501 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 502 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 503 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 504 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 505 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 506 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 507 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 508 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 509 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 510 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 511 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 512 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 513 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 514 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 515 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 516 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 517 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 518 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 519 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 520 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 521 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 522 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 523 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 524 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 525 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 526 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 527 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 528 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 529 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 530 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 531 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 532 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 533 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 534 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 535 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 536 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 537 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 538 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 539 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 540 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 541 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 542 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 543 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 544 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 545 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 546 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 547 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 548 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 549 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 550 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 551 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 552 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 553 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 554 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 555 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 556 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 557 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 558 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 559 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 560 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 561 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 562 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 563 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 564 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 565 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 0.798, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 566 : 12.768
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 567 : 6.916
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 568 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 569 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 570 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 571 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 572 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 573 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 574 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 575 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 576 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 577 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 578 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 579 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 580 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 581 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 582 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 583 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 584 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 585 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 586 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 587 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 588 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 589 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 590 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 591 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 592 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 593 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 594 : 7.448
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 595 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 596 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 597 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 598 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 599 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 600 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 601 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 602 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 603 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 604 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 605 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 606 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 607 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 608 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 609 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 610 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 611 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 612 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 613 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 614 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 615 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 616 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 617 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 618 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 619 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 620 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 621 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 622 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 623 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 624 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 625 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 626 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 627 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 628 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 629 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 630 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 631 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 632 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 633 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 634 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 635 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 636 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 637 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 638 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 639 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 640 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 641 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 642 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 643 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 644 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 645 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 646 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 1.33, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 647 : 13.3
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 0.798, 0.798]
+TOTAL design 648 : 7.98
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 0.798, 1.33]
+TOTAL design 649 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 0.798, 2.394]
+TOTAL design 650 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 1.33, 0.798]
+TOTAL design 651 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 1.33, 1.33]
+TOTAL design 652 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 1.33, 2.394]
+TOTAL design 653 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 2.394, 0.798]
+TOTAL design 654 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 2.394, 1.33]
+TOTAL design 655 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 0.798, 2.394, 2.394]
+TOTAL design 656 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 0.798, 0.798]
+TOTAL design 657 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 0.798, 1.33]
+TOTAL design 658 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 0.798, 2.394]
+TOTAL design 659 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 1.33, 0.798]
+TOTAL design 660 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 1.33, 1.33]
+TOTAL design 661 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 1.33, 2.394]
+TOTAL design 662 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 2.394, 0.798]
+TOTAL design 663 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 2.394, 1.33]
+TOTAL design 664 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 1.33, 2.394, 2.394]
+TOTAL design 665 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 0.798, 0.798]
+TOTAL design 666 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 0.798, 1.33]
+TOTAL design 667 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 0.798, 2.394]
+TOTAL design 668 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 1.33, 0.798]
+TOTAL design 669 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 1.33, 1.33]
+TOTAL design 670 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 1.33, 2.394]
+TOTAL design 671 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 2.394, 0.798]
+TOTAL design 672 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 2.394, 1.33]
+TOTAL design 673 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 0.798, 2.394, 2.394, 2.394]
+TOTAL design 674 : 12.768
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 0.798, 0.798]
+TOTAL design 675 : 8.512
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 0.798, 1.33]
+TOTAL design 676 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 0.798, 2.394]
+TOTAL design 677 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 1.33, 0.798]
+TOTAL design 678 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 1.33, 1.33]
+TOTAL design 679 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 1.33, 2.394]
+TOTAL design 680 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 2.394, 0.798]
+TOTAL design 681 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 2.394, 1.33]
+TOTAL design 682 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 0.798, 2.394, 2.394]
+TOTAL design 683 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 0.798, 0.798]
+TOTAL design 684 : 9.044
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 0.798, 1.33]
+TOTAL design 685 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 0.798, 2.394]
+TOTAL design 686 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 1.33, 0.798]
+TOTAL design 687 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 1.33, 1.33]
+TOTAL design 688 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 1.33, 2.394]
+TOTAL design 689 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 2.394, 0.798]
+TOTAL design 690 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 2.394, 1.33]
+TOTAL design 691 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 1.33, 2.394, 2.394]
+TOTAL design 692 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 0.798, 0.798]
+TOTAL design 693 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 0.798, 1.33]
+TOTAL design 694 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 0.798, 2.394]
+TOTAL design 695 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 1.33, 0.798]
+TOTAL design 696 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 1.33, 1.33]
+TOTAL design 697 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 1.33, 2.394]
+TOTAL design 698 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 2.394, 0.798]
+TOTAL design 699 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 2.394, 1.33]
+TOTAL design 700 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 1.33, 2.394, 2.394, 2.394]
+TOTAL design 701 : 13.3
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 0.798, 0.798]
+TOTAL design 702 : 9.576
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 0.798, 1.33]
+TOTAL design 703 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 0.798, 2.394]
+TOTAL design 704 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 1.33, 0.798]
+TOTAL design 705 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 1.33, 1.33]
+TOTAL design 706 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 1.33, 2.394]
+TOTAL design 707 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 2.394, 0.798]
+TOTAL design 708 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 2.394, 1.33]
+TOTAL design 709 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 0.798, 2.394, 2.394]
+TOTAL design 710 : 12.768
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 0.798, 0.798]
+TOTAL design 711 : 10.108
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 0.798, 1.33]
+TOTAL design 712 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 0.798, 2.394]
+TOTAL design 713 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 1.33, 0.798]
+TOTAL design 714 : 10.64
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 1.33, 1.33]
+TOTAL design 715 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 1.33, 2.394]
+TOTAL design 716 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 2.394, 0.798]
+TOTAL design 717 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 2.394, 1.33]
+TOTAL design 718 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 1.33, 2.394, 2.394]
+TOTAL design 719 : 13.3
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 0.798, 0.798]
+TOTAL design 720 : 11.172
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 0.798, 1.33]
+TOTAL design 721 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 0.798, 2.394]
+TOTAL design 722 : 12.768
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 1.33, 0.798]
+TOTAL design 723 : 11.704
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 1.33, 1.33]
+TOTAL design 724 : 12.236
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 1.33, 2.394]
+TOTAL design 725 : 13.3
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 2.394, 0.798]
+TOTAL design 726 : 12.768
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 2.394, 1.33]
+TOTAL design 727 : 13.3
 design cells -> ['4', '5', '6', '7', '8', '9']
 AREA DIMISIONS [2.394, 2.394, 2.394, 2.394, 2.394, 2.394]
+TOTAL design 728 : 14.364
 design cells -> ['4', '5', '6', '7', '8', '9']

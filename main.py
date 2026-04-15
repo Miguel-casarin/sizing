@@ -148,12 +148,13 @@ def build_path_values(cells_dict: dict, number_coluns: int):
 
     return vals
 
-def build_row(csv_name, code, power, size_gates, out_path_cells_str, arrival_vals, path_vals, number_coluns):
+def build_row(csv_name, code, power, size_gates,circuit_area, out_path_cells_str, arrival_vals, path_vals, number_coluns):
     return [
         csv_name,
         code,
         power,
         size_gates,
+        circuit_area,
         out_path_cells_str,
         *arrival_vals,
         *path_vals,
@@ -195,6 +196,8 @@ for sta_file in files:
     # Calculo da área 
     cells_area = calculetArea.map_nand_area(sized_gates)
     print(f"AREA DIMISIONS {cells_area}")
+    total_area = calculetArea.c_area(cells_area)
+    print(f"TOTAL design {code} : {total_area}")
 
     arrivals = rt.get_arrival_times()  # dict: chave = índice da coluna
     cells = rt.get_cells()             # dict: chave = índice da coluna (paths)
@@ -213,6 +216,7 @@ for sta_file in files:
         code=code,
         power=power,
         size_gates=size_gates,
+        circuit_area=total_area,
         out_path_cells_str=out_path_cells_str,
         arrival_vals=arrival_vals,
         path_vals=path_vals,
